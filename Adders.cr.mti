@@ -1,0 +1,48 @@
+E:/VLSIProject/RippleCarryAdder_16Bit.v {1 {vlog -work work -stats=none E:/VLSIProject/RippleCarryAdder_16Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RippleCarryAdder_16Bit
+
+Top level modules:
+	RippleCarryAdder_16Bit
+
+} {} {}} E:/VLSIProject/CarryByPassAdder.v {0 {vlog -work work -stats=none E:/VLSIProject/CarryByPassAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarryByPassAdder
+** Error: (vlog-13069) E:/VLSIProject/CarryByPassAdder.v(15): near "#": syntax error, unexpected '#'.
+
+} {4.0 5.0} {}} E:/VLSIProject/FA.v {1 {vlog -work work -stats=none E:/VLSIProject/FA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} E:/VLSIProject/VerilogAdder.v {1 {vlog -work work -stats=none E:/VLSIProject/VerilogAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VerilogAdder
+
+Top level modules:
+	VerilogAdder
+
+} {} {}} E:/VLSIProject/CarrySelectAdder.v {1 {vlog -work work -stats=none {E:\VLSIProject\CarrySelectAdder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarrySelectAdder
+
+Top level modules:
+	CarrySelectAdder
+
+} {} {}} E:/VLSIProject/RippleCarryAdder.v {1 {vlog -work work -stats=none E:/VLSIProject/RippleCarryAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RippleCarryAdder
+
+Top level modules:
+	RippleCarryAdder
+
+} {} {}} E:/VLSIProject/CarryLookAheadAdder.v {1 {vlog -work work -sv -stats=none {E:\VLSIProject\CarryLookAheadAdder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarryLookAheadAdder
+
+Top level modules:
+	CarryLookAheadAdder
+
+} {} {}}

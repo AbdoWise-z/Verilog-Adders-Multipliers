@@ -1,0 +1,189 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vCarryByPassAdder
+!s110 1701892930
+!i10b 1
+!s100 1_Nei5glV3Qnm0HV?G[oD1
+IH7OMlQSU;I70k5N;R[jM<2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/VLSIProject
+w1701892831
+8E:/VLSIProject/CarryByPassAdder.v
+FE:/VLSIProject/CarryByPassAdder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1701892930.000000
+!s107 E:/VLSIProject/CarryByPassAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VLSIProject/CarryByPassAdder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@carry@by@pass@adder
+vCarryByPassAdder_4Bit
+Z5 !s110 1701893109
+!i10b 1
+!s100 J<zCJnjT>A4[<CH:;O<Wg0
+ISZ?bPf<AK<8ilnIiP^UKe1
+R0
+R1
+w1701893096
+8E:/VLSIProject/CarryByPassAdder4_Bit.v
+FE:/VLSIProject/CarryByPassAdder4_Bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1701893109.000000
+!s107 E:/VLSIProject/CarryByPassAdder4_Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VLSIProject/CarryByPassAdder4_Bit.v|
+!i113 1
+R3
+R4
+n@carry@by@pass@adder_4@bit
+vCarryLookAheadAdder
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R5
+!i10b 1
+!s100 6i2_Ml4`J7ez6lhBKLTK^3
+I_Co:9Ab2F8X3=JO]baGdQ2
+R0
+!s105 CarryLookAheadAdder_v_unit
+S1
+R1
+w1701889821
+8E:\VLSIProject\CarryLookAheadAdder.v
+FE:\VLSIProject\CarryLookAheadAdder.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:\VLSIProject\CarryLookAheadAdder.v|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:\VLSIProject\CarryLookAheadAdder.v|
+!i113 1
+o-work work -sv
+R4
+n@carry@look@ahead@adder
+vCarrySelectAdder
+R5
+!i10b 1
+!s100 6[aAiC?Z_ZFz`5laaU6VT3
+ISEQVQSd9WGg]nAG1z0K8e3
+R0
+R1
+w1701876360
+8E:\VLSIProject\CarrySelectAdder.v
+FE:\VLSIProject\CarrySelectAdder.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:\VLSIProject\CarrySelectAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\VLSIProject\CarrySelectAdder.v|
+!i113 1
+R3
+R4
+n@carry@select@adder
+vFA
+R5
+!i10b 1
+!s100 4Zf6?6I>9NmS9<Cl8[ETe0
+I3OGE4WD6087Cc9Oz5U:9W0
+R0
+R1
+w1701869798
+8E:/VLSIProject/FA.v
+FE:/VLSIProject/FA.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/VLSIProject/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VLSIProject/FA.v|
+!i113 1
+R3
+R4
+n@f@a
+vRippleCarryAdder
+R5
+!i10b 1
+!s100 3N5dkZ@R=@9cDYj4P]7Od2
+I@Y^kJRZGUigGKIBi5FkSU2
+R0
+R1
+w1701875598
+8E:/VLSIProject/RippleCarryAdder.v
+FE:/VLSIProject/RippleCarryAdder.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/VLSIProject/RippleCarryAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VLSIProject/RippleCarryAdder.v|
+!i113 1
+R3
+R4
+n@ripple@carry@adder
+vRippleCarryAdder_16Bit
+R5
+!i10b 1
+!s100 f5oWWiL[<d=:K]YKc8]0c3
+I=LgcmeR]j`eCc<^LoF[2f1
+R0
+R1
+w1701876443
+8E:/VLSIProject/RippleCarryAdder_16Bit.v
+FE:/VLSIProject/RippleCarryAdder_16Bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/VLSIProject/RippleCarryAdder_16Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VLSIProject/RippleCarryAdder_16Bit.v|
+!i113 1
+R3
+R4
+n@ripple@carry@adder_16@bit
+vVerilogAdder
+R5
+!i10b 1
+!s100 C<TU;n7_77A]:cm3dOZ]f0
+IRjGTF4]`cdW8eVg:XGOUb3
+R0
+R1
+w1701885594
+8E:/VLSIProject/VerilogAdder.v
+FE:/VLSIProject/VerilogAdder.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1701893108.000000
+!s107 E:/VLSIProject/VerilogAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VLSIProject/VerilogAdder.v|
+!i113 1
+R3
+R4
+n@verilog@adder
