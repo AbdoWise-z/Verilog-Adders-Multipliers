@@ -1,5 +1,5 @@
 Analysis & Synthesis report for Synth_Test
-Wed Dec  6 21:55:11 2023
+Fri Dec  8 21:46:00 2023
 Quartus Prime Version 21.1.1 Build 850 06/23/2022 SJ Lite Edition
 
 
@@ -43,10 +43,10 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                  ;
 +---------------------------------+---------------------------------------------+
-; Analysis & Synthesis Status     ; Successful - Wed Dec  6 21:55:11 2023       ;
+; Analysis & Synthesis Status     ; Successful - Fri Dec  8 21:46:00 2023       ;
 ; Quartus Prime Version           ; 21.1.1 Build 850 06/23/2022 SJ Lite Edition ;
 ; Revision Name                   ; Synth_Test                                  ;
-; Top-level Entity Name           ; Synth_Test                                  ;
+; Top-level Entity Name           ; CarryLookAheadAdder2                        ;
 ; Family                          ; Cyclone V                                   ;
 ; Logic utilization (in ALMs)     ; N/A                                         ;
 ; Total registers                 ; 0                                           ;
@@ -63,95 +63,95 @@ https://fpgasoftware.intel.com/eula.
 +---------------------------------+---------------------------------------------+
 
 
-+---------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Settings                                                                                             ;
-+---------------------------------------------------------------------------------+--------------------+--------------------+
-; Option                                                                          ; Setting            ; Default Value      ;
-+---------------------------------------------------------------------------------+--------------------+--------------------+
-; Device                                                                          ; 5CGXFC7C7F23C8     ;                    ;
-; Top-level entity name                                                           ; Synth_Test         ; Synth_Test         ;
-; Family name                                                                     ; Cyclone V          ; Cyclone V          ;
-; Type of Retiming Performed During Resynthesis                                   ; Full               ;                    ;
-; Resynthesis Optimization Effort                                                 ; Normal             ;                    ;
-; Physical Synthesis Level for Resynthesis                                        ; Normal             ;                    ;
-; Use Generated Physical Constraints File                                         ; On                 ;                    ;
-; Use smart compilation                                                           ; Off                ; Off                ;
-; Enable parallel Assembler and Timing Analyzer during compilation                ; On                 ; On                 ;
-; Enable compact report table                                                     ; Off                ; Off                ;
-; Restructure Multiplexers                                                        ; Auto               ; Auto               ;
-; MLAB Add Timing Constraints For Mixed-Port Feed-Through Mode Setting Don't Care ; Off                ; Off                ;
-; Create Debugging Nodes for IP Cores                                             ; Off                ; Off                ;
-; Preserve fewer node names                                                       ; On                 ; On                 ;
-; Intel FPGA IP Evaluation Mode                                                   ; Enable             ; Enable             ;
-; Verilog Version                                                                 ; Verilog_2001       ; Verilog_2001       ;
-; VHDL Version                                                                    ; VHDL_1993          ; VHDL_1993          ;
-; State Machine Processing                                                        ; Auto               ; Auto               ;
-; Safe State Machine                                                              ; Off                ; Off                ;
-; Extract Verilog State Machines                                                  ; On                 ; On                 ;
-; Extract VHDL State Machines                                                     ; On                 ; On                 ;
-; Ignore Verilog initial constructs                                               ; Off                ; Off                ;
-; Iteration limit for constant Verilog loops                                      ; 5000               ; 5000               ;
-; Iteration limit for non-constant Verilog loops                                  ; 250                ; 250                ;
-; Add Pass-Through Logic to Inferred RAMs                                         ; On                 ; On                 ;
-; Infer RAMs from Raw Logic                                                       ; On                 ; On                 ;
-; Parallel Synthesis                                                              ; On                 ; On                 ;
-; DSP Block Balancing                                                             ; Auto               ; Auto               ;
-; NOT Gate Push-Back                                                              ; On                 ; On                 ;
-; Power-Up Don't Care                                                             ; On                 ; On                 ;
-; Remove Redundant Logic Cells                                                    ; Off                ; Off                ;
-; Remove Duplicate Registers                                                      ; On                 ; On                 ;
-; Ignore CARRY Buffers                                                            ; Off                ; Off                ;
-; Ignore CASCADE Buffers                                                          ; Off                ; Off                ;
-; Ignore GLOBAL Buffers                                                           ; Off                ; Off                ;
-; Ignore ROW GLOBAL Buffers                                                       ; Off                ; Off                ;
-; Ignore LCELL Buffers                                                            ; Off                ; Off                ;
-; Ignore SOFT Buffers                                                             ; On                 ; On                 ;
-; Limit AHDL Integers to 32 Bits                                                  ; Off                ; Off                ;
-; Optimization Technique                                                          ; Balanced           ; Balanced           ;
-; Carry Chain Length                                                              ; 70                 ; 70                 ;
-; Auto Carry Chains                                                               ; On                 ; On                 ;
-; Auto Open-Drain Pins                                                            ; On                 ; On                 ;
-; Perform WYSIWYG Primitive Resynthesis                                           ; Off                ; Off                ;
-; Auto ROM Replacement                                                            ; On                 ; On                 ;
-; Auto RAM Replacement                                                            ; On                 ; On                 ;
-; Auto DSP Block Replacement                                                      ; On                 ; On                 ;
-; Auto Shift Register Replacement                                                 ; Auto               ; Auto               ;
-; Allow Shift Register Merging across Hierarchies                                 ; Auto               ; Auto               ;
-; Auto Clock Enable Replacement                                                   ; On                 ; On                 ;
-; Strict RAM Replacement                                                          ; Off                ; Off                ;
-; Allow Synchronous Control Signals                                               ; On                 ; On                 ;
-; Force Use of Synchronous Clear Signals                                          ; Off                ; Off                ;
-; Auto Resource Sharing                                                           ; Off                ; Off                ;
-; Allow Any RAM Size For Recognition                                              ; Off                ; Off                ;
-; Allow Any ROM Size For Recognition                                              ; Off                ; Off                ;
-; Allow Any Shift Register Size For Recognition                                   ; Off                ; Off                ;
-; Use LogicLock Constraints during Resource Balancing                             ; On                 ; On                 ;
-; Ignore translate_off and synthesis_off directives                               ; Off                ; Off                ;
-; Timing-Driven Synthesis                                                         ; On                 ; On                 ;
-; Report Parameter Settings                                                       ; On                 ; On                 ;
-; Report Source Assignments                                                       ; On                 ; On                 ;
-; Report Connectivity Checks                                                      ; On                 ; On                 ;
-; Ignore Maximum Fan-Out Assignments                                              ; Off                ; Off                ;
-; Synchronization Register Chain Length                                           ; 3                  ; 3                  ;
-; Power Optimization During Synthesis                                             ; Normal compilation ; Normal compilation ;
-; HDL message level                                                               ; Level2             ; Level2             ;
-; Suppress Register Optimization Related Messages                                 ; Off                ; Off                ;
-; Number of Removed Registers Reported in Synthesis Report                        ; 5000               ; 5000               ;
-; Number of Swept Nodes Reported in Synthesis Report                              ; 5000               ; 5000               ;
-; Number of Inverted Registers Reported in Synthesis Report                       ; 100                ; 100                ;
-; Clock MUX Protection                                                            ; On                 ; On                 ;
-; Auto Gated Clock Conversion                                                     ; Off                ; Off                ;
-; Block Design Naming                                                             ; Auto               ; Auto               ;
-; SDC constraint protection                                                       ; Off                ; Off                ;
-; Synthesis Effort                                                                ; Auto               ; Auto               ;
-; Shift Register Replacement - Allow Asynchronous Clear Signal                    ; On                 ; On                 ;
-; Pre-Mapping Resynthesis Optimization                                            ; Off                ; Off                ;
-; Analysis & Synthesis Message Level                                              ; Medium             ; Medium             ;
-; Disable Register Merging Across Hierarchies                                     ; Auto               ; Auto               ;
-; Resource Aware Inference For Block RAM                                          ; On                 ; On                 ;
-; Automatic Parallel Synthesis                                                    ; On                 ; On                 ;
-; Partial Reconfiguration Bitstream ID                                            ; Off                ; Off                ;
-+---------------------------------------------------------------------------------+--------------------+--------------------+
++-----------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Settings                                                                                               ;
++---------------------------------------------------------------------------------+----------------------+--------------------+
+; Option                                                                          ; Setting              ; Default Value      ;
++---------------------------------------------------------------------------------+----------------------+--------------------+
+; Device                                                                          ; 5CGXFC7C7F23C8       ;                    ;
+; Top-level entity name                                                           ; CarryLookAheadAdder2 ; Synth_Test         ;
+; Family name                                                                     ; Cyclone V            ; Cyclone V          ;
+; Type of Retiming Performed During Resynthesis                                   ; Full                 ;                    ;
+; Resynthesis Optimization Effort                                                 ; Normal               ;                    ;
+; Physical Synthesis Level for Resynthesis                                        ; Normal               ;                    ;
+; Use Generated Physical Constraints File                                         ; On                   ;                    ;
+; Use smart compilation                                                           ; Off                  ; Off                ;
+; Enable parallel Assembler and Timing Analyzer during compilation                ; On                   ; On                 ;
+; Enable compact report table                                                     ; Off                  ; Off                ;
+; Restructure Multiplexers                                                        ; Auto                 ; Auto               ;
+; MLAB Add Timing Constraints For Mixed-Port Feed-Through Mode Setting Don't Care ; Off                  ; Off                ;
+; Create Debugging Nodes for IP Cores                                             ; Off                  ; Off                ;
+; Preserve fewer node names                                                       ; On                   ; On                 ;
+; Intel FPGA IP Evaluation Mode                                                   ; Enable               ; Enable             ;
+; Verilog Version                                                                 ; Verilog_2001         ; Verilog_2001       ;
+; VHDL Version                                                                    ; VHDL_1993            ; VHDL_1993          ;
+; State Machine Processing                                                        ; Auto                 ; Auto               ;
+; Safe State Machine                                                              ; Off                  ; Off                ;
+; Extract Verilog State Machines                                                  ; On                   ; On                 ;
+; Extract VHDL State Machines                                                     ; On                   ; On                 ;
+; Ignore Verilog initial constructs                                               ; Off                  ; Off                ;
+; Iteration limit for constant Verilog loops                                      ; 5000                 ; 5000               ;
+; Iteration limit for non-constant Verilog loops                                  ; 250                  ; 250                ;
+; Add Pass-Through Logic to Inferred RAMs                                         ; On                   ; On                 ;
+; Infer RAMs from Raw Logic                                                       ; On                   ; On                 ;
+; Parallel Synthesis                                                              ; On                   ; On                 ;
+; DSP Block Balancing                                                             ; Auto                 ; Auto               ;
+; NOT Gate Push-Back                                                              ; On                   ; On                 ;
+; Power-Up Don't Care                                                             ; On                   ; On                 ;
+; Remove Redundant Logic Cells                                                    ; Off                  ; Off                ;
+; Remove Duplicate Registers                                                      ; On                   ; On                 ;
+; Ignore CARRY Buffers                                                            ; Off                  ; Off                ;
+; Ignore CASCADE Buffers                                                          ; Off                  ; Off                ;
+; Ignore GLOBAL Buffers                                                           ; Off                  ; Off                ;
+; Ignore ROW GLOBAL Buffers                                                       ; Off                  ; Off                ;
+; Ignore LCELL Buffers                                                            ; Off                  ; Off                ;
+; Ignore SOFT Buffers                                                             ; On                   ; On                 ;
+; Limit AHDL Integers to 32 Bits                                                  ; Off                  ; Off                ;
+; Optimization Technique                                                          ; Balanced             ; Balanced           ;
+; Carry Chain Length                                                              ; 70                   ; 70                 ;
+; Auto Carry Chains                                                               ; On                   ; On                 ;
+; Auto Open-Drain Pins                                                            ; On                   ; On                 ;
+; Perform WYSIWYG Primitive Resynthesis                                           ; Off                  ; Off                ;
+; Auto ROM Replacement                                                            ; On                   ; On                 ;
+; Auto RAM Replacement                                                            ; On                   ; On                 ;
+; Auto DSP Block Replacement                                                      ; On                   ; On                 ;
+; Auto Shift Register Replacement                                                 ; Auto                 ; Auto               ;
+; Allow Shift Register Merging across Hierarchies                                 ; Auto                 ; Auto               ;
+; Auto Clock Enable Replacement                                                   ; On                   ; On                 ;
+; Strict RAM Replacement                                                          ; Off                  ; Off                ;
+; Allow Synchronous Control Signals                                               ; On                   ; On                 ;
+; Force Use of Synchronous Clear Signals                                          ; Off                  ; Off                ;
+; Auto Resource Sharing                                                           ; Off                  ; Off                ;
+; Allow Any RAM Size For Recognition                                              ; Off                  ; Off                ;
+; Allow Any ROM Size For Recognition                                              ; Off                  ; Off                ;
+; Allow Any Shift Register Size For Recognition                                   ; Off                  ; Off                ;
+; Use LogicLock Constraints during Resource Balancing                             ; On                   ; On                 ;
+; Ignore translate_off and synthesis_off directives                               ; Off                  ; Off                ;
+; Timing-Driven Synthesis                                                         ; On                   ; On                 ;
+; Report Parameter Settings                                                       ; On                   ; On                 ;
+; Report Source Assignments                                                       ; On                   ; On                 ;
+; Report Connectivity Checks                                                      ; On                   ; On                 ;
+; Ignore Maximum Fan-Out Assignments                                              ; Off                  ; Off                ;
+; Synchronization Register Chain Length                                           ; 3                    ; 3                  ;
+; Power Optimization During Synthesis                                             ; Normal compilation   ; Normal compilation ;
+; HDL message level                                                               ; Level2               ; Level2             ;
+; Suppress Register Optimization Related Messages                                 ; Off                  ; Off                ;
+; Number of Removed Registers Reported in Synthesis Report                        ; 5000                 ; 5000               ;
+; Number of Swept Nodes Reported in Synthesis Report                              ; 5000                 ; 5000               ;
+; Number of Inverted Registers Reported in Synthesis Report                       ; 100                  ; 100                ;
+; Clock MUX Protection                                                            ; On                   ; On                 ;
+; Auto Gated Clock Conversion                                                     ; Off                  ; Off                ;
+; Block Design Naming                                                             ; Auto                 ; Auto               ;
+; SDC constraint protection                                                       ; Off                  ; Off                ;
+; Synthesis Effort                                                                ; Auto                 ; Auto               ;
+; Shift Register Replacement - Allow Asynchronous Clear Signal                    ; On                   ; On                 ;
+; Pre-Mapping Resynthesis Optimization                                            ; Off                  ; Off                ;
+; Analysis & Synthesis Message Level                                              ; Medium               ; Medium             ;
+; Disable Register Merging Across Hierarchies                                     ; Auto                 ; Auto               ;
+; Resource Aware Inference For Block RAM                                          ; On                   ; On                 ;
+; Automatic Parallel Synthesis                                                    ; On                   ; On                 ;
+; Partial Reconfiguration Bitstream ID                                            ; Off                  ; Off                ;
++---------------------------------------------------------------------------------+----------------------+--------------------+
 
 
 +------------------------------------------+
@@ -159,8 +159,8 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------+-------------+
 ; Processors                 ; Number      ;
 +----------------------------+-------------+
-; Number detected on machine ; 12          ;
-; Maximum allowed            ; 6           ;
+; Number detected on machine ; 16          ;
+; Maximum allowed            ; 8           ;
 ;                            ;             ;
 ; Average used               ; 1.00        ;
 ; Maximum used               ; 1           ;
@@ -170,14 +170,13 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------+-------------+
 
 
-+----------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                     ;
-+----------------------------------+-----------------+------------------------------+------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type                    ; File Name with Absolute Path ; Library ;
-+----------------------------------+-----------------+------------------------------+------------------------------+---------+
-; Synth_Test.v                     ; yes             ; User Verilog HDL File        ; E:/VLSIProject/Synth_Test.v  ;         ;
-; fa.v                             ; yes             ; Auto-Found Verilog HDL File  ; E:/VLSIProject/fa.v          ;         ;
-+----------------------------------+-----------------+------------------------------+------------------------------+---------+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                 ;
++----------------------------------+-----------------+------------------------+--------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                                   ; Library ;
++----------------------------------+-----------------+------------------------+--------------------------------------------------------------------------------+---------+
+; CarryLookAheadAdder2.v           ; yes             ; User Verilog HDL File  ; C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder2.v ;         ;
++----------------------------------+-----------------+------------------------+--------------------------------------------------------------------------------+---------+
 
 
 +-----------------------------------------------------------+
@@ -185,14 +184,14 @@ https://fpgasoftware.intel.com/eula.
 +---------------------------------------------+-------------+
 ; Resource                                    ; Usage       ;
 +---------------------------------------------+-------------+
-; Estimate of Logic utilization (ALMs needed) ; 44          ;
+; Estimate of Logic utilization (ALMs needed) ; 81          ;
 ;                                             ;             ;
-; Combinational ALUT usage for logic          ; 72          ;
+; Combinational ALUT usage for logic          ; 135         ;
 ;     -- 7 input functions                    ; 0           ;
-;     -- 6 input functions                    ; 16          ;
-;     -- 5 input functions                    ; 20          ;
-;     -- 4 input functions                    ; 17          ;
-;     -- <=3 input functions                  ; 19          ;
+;     -- 6 input functions                    ; 27          ;
+;     -- 5 input functions                    ; 43          ;
+;     -- 4 input functions                    ; 13          ;
+;     -- <=3 input functions                  ; 52          ;
 ;                                             ;             ;
 ; Dedicated logic registers                   ; 0           ;
 ;                                             ;             ;
@@ -200,60 +199,20 @@ https://fpgasoftware.intel.com/eula.
 ;                                             ;             ;
 ; Total DSP Blocks                            ; 0           ;
 ;                                             ;             ;
-; Maximum fan-out node                        ; a[24]~input ;
-; Maximum fan-out                             ; 10          ;
-; Total fan-out                               ; 451         ;
-; Average fan-out                             ; 1.66        ;
+; Maximum fan-out node                        ; a[23]~input ;
+; Maximum fan-out                             ; 12          ;
+; Total fan-out                               ; 691         ;
+; Average fan-out                             ; 2.06        ;
 +---------------------------------------------+-------------+
 
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Resource Utilization by Entity                                                                                                                                                                                                               ;
-+-------------------------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+-----------------------------------------------------------------------+-----------------------+--------------+
-; Compilation Hierarchy Node                ; Combinational ALUTs ; Dedicated Logic Registers ; Block Memory Bits ; DSP Blocks ; Pins ; Virtual Pins ; Full Hierarchy Name                                                   ; Entity Name           ; Library Name ;
-+-------------------------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+-----------------------------------------------------------------------+-----------------------+--------------+
-; |Synth_Test                               ; 72 (0)              ; 0 (0)                     ; 0                 ; 0          ; 100  ; 0            ; |Synth_Test                                                           ; Synth_Test            ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[0].CBPA|  ; 7 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA                       ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[0].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[1].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[2].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[3].BitAdder  ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[12].CBPA| ; 8 (3)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA                      ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[0].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[1].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[2].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[3].BitAdder ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[16].CBPA| ; 10 (5)              ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA                      ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[0].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[1].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[2].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[3].BitAdder ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[20].CBPA| ; 9 (4)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA                      ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[0].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[1].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[2].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[3].BitAdder ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[24].CBPA| ; 10 (5)              ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA                      ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[0].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[1].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[2].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[3].BitAdder ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[28].CBPA| ; 9 (3)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA                      ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[0].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[1].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[2].BitAdder ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[3].BitAdder ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[4].CBPA|  ; 9 (5)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA                       ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[0].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[1].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[2].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[3].BitAdder  ; FA                    ; work         ;
-;    |CarryByPassAdder_4Bit:loop1[8].CBPA|  ; 10 (5)              ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA                       ; CarryByPassAdder_4Bit ; work         ;
-;       |FA:loop2[0].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[0].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[1].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[1].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[2].BitAdder|              ; 2 (2)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[2].BitAdder  ; FA                    ; work         ;
-;       |FA:loop2[3].BitAdder|              ; 1 (1)               ; 0 (0)                     ; 0                 ; 0          ; 0    ; 0            ; |Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[3].BitAdder  ; FA                    ; work         ;
-+-------------------------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+-----------------------------------------------------------------------+-----------------------+--------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Resource Utilization by Entity                                                                                                                                               ;
++----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+-----------------------+----------------------+--------------+
+; Compilation Hierarchy Node ; Combinational ALUTs ; Dedicated Logic Registers ; Block Memory Bits ; DSP Blocks ; Pins ; Virtual Pins ; Full Hierarchy Name   ; Entity Name          ; Library Name ;
++----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+-----------------------+----------------------+--------------+
+; |CarryLookAheadAdder2      ; 135 (135)           ; 0 (0)                     ; 0                 ; 0          ; 100  ; 0            ; |CarryLookAheadAdder2 ; CarryLookAheadAdder2 ; work         ;
++----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+-----------------------+----------------------+--------------+
 Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
 
 
@@ -277,18 +236,18 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +-----------------------+-----------------------------+
 ; Type                  ; Count                       ;
 +-----------------------+-----------------------------+
-; arriav_lcell_comb     ; 73                          ;
-;     normal            ; 73                          ;
-;         0 data inputs ; 1                           ;
-;         2 data inputs ; 3                           ;
-;         3 data inputs ; 16                          ;
-;         4 data inputs ; 17                          ;
-;         5 data inputs ; 20                          ;
-;         6 data inputs ; 16                          ;
+; arriav_lcell_comb     ; 137                         ;
+;     normal            ; 137                         ;
+;         1 data inputs ; 2                           ;
+;         2 data inputs ; 29                          ;
+;         3 data inputs ; 23                          ;
+;         4 data inputs ; 13                          ;
+;         5 data inputs ; 43                          ;
+;         6 data inputs ; 27                          ;
 ; boundary_port         ; 100                         ;
 ;                       ;                             ;
-; Max LUT depth         ; 12.00                       ;
-; Average LUT depth     ; 8.17                        ;
+; Max LUT depth         ; 9.00                        ;
+; Average LUT depth     ; 6.30                        ;
 +-----------------------+-----------------------------+
 
 
@@ -307,47 +266,34 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 21.1.1 Build 850 06/23/2022 SJ Lite Edition
-    Info: Processing started: Wed Dec  6 21:55:02 2023
+    Info: Processing started: Fri Dec  8 21:45:54 2023
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Synth_Test -c Synth_Test
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
-Info (20030): Parallel compilation is enabled and will use 6 of the 6 processors detected
+Info (20030): Parallel compilation is enabled and will use 8 of the 8 processors detected
+Info (12021): Found 1 design units, including 1 entities, in source file carrylookaheadadder2.v
+    Info (12023): Found entity 1: CarryLookAheadAdder2 File: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder2.v Line: 1
 Info (12021): Found 2 design units, including 2 entities, in source file synth_test.v
-    Info (12023): Found entity 1: Synth_Test File: E:/VLSIProject/Synth_Test.v Line: 1
-    Info (12023): Found entity 2: CarryByPassAdder_4Bit File: E:/VLSIProject/Synth_Test.v Line: 20
-Warning (10236): Verilog HDL Implicit Net warning at Synth_Test.v(37): created implicit net for "qi" File: E:/VLSIProject/Synth_Test.v Line: 37
+    Info (12023): Found entity 1: Synth_Test File: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/Synth_Test.v Line: 1
+    Info (12023): Found entity 2: CarryByPassAdder_4Bit File: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/Synth_Test.v Line: 20
+Warning (10236): Verilog HDL Implicit Net warning at Synth_Test.v(37): created implicit net for "qi" File: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/Synth_Test.v Line: 37
 Warning (12162): EDA synthesis tool is specified as "Custom", but Library Mapping File is not specified
 Warning (12163): EDA synthesis tool is specified as "Custom", but VCC is not specified
 Warning (12164): EDA synthesis tool is specified as "Custom", but GND is not specified
-Info (12127): Elaborating entity "Synth_Test" for the top level hierarchy
-Warning (10034): Output port "posOverflow" at Synth_Test.v(5) has no driver File: E:/VLSIProject/Synth_Test.v Line: 5
-Warning (10034): Output port "negOverflow" at Synth_Test.v(6) has no driver File: E:/VLSIProject/Synth_Test.v Line: 6
-Info (12128): Elaborating entity "CarryByPassAdder_4Bit" for hierarchy "CarryByPassAdder_4Bit:loop1[0].CBPA" File: E:/VLSIProject/Synth_Test.v Line: 15
-Warning (10858): Verilog HDL warning at Synth_Test.v(37): object qi used but never assigned File: E:/VLSIProject/Synth_Test.v Line: 37
-Warning (10027): Verilog HDL or VHDL warning at the Synth_Test.v(37): index expression is not wide enough to address all of the elements in the array File: E:/VLSIProject/Synth_Test.v Line: 37
-Warning (10030): Net "loop2[0].qi" at Synth_Test.v(37) has no driver or initial value, using a default initial value '0' File: E:/VLSIProject/Synth_Test.v Line: 37
-Warning (10030): Net "loop2[1].qi" at Synth_Test.v(37) has no driver or initial value, using a default initial value '0' File: E:/VLSIProject/Synth_Test.v Line: 37
-Warning (10030): Net "loop2[2].qi" at Synth_Test.v(37) has no driver or initial value, using a default initial value '0' File: E:/VLSIProject/Synth_Test.v Line: 37
-Warning (10030): Net "loop2[3].qi" at Synth_Test.v(37) has no driver or initial value, using a default initial value '0' File: E:/VLSIProject/Synth_Test.v Line: 37
-Warning (12125): Using design file fa.v, which is not specified as a design file for the current project, but contains definitions for 1 design units and 1 entities in project
-    Info (12023): Found entity 1: FA File: E:/VLSIProject/fa.v Line: 1
-Info (12128): Elaborating entity "FA" for hierarchy "CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[0].BitAdder" File: E:/VLSIProject/Synth_Test.v Line: 37
+Info (12127): Elaborating entity "CarryLookAheadAdder2" for the top level hierarchy
 Warning (12162): EDA synthesis tool is specified as "Custom", but Library Mapping File is not specified
 Warning (12163): EDA synthesis tool is specified as "Custom", but VCC is not specified
 Warning (12164): EDA synthesis tool is specified as "Custom", but GND is not specified
-Warning (13024): Output pins are stuck at VCC or GND
-    Warning (13410): Pin "posOverflow" is stuck at GND File: E:/VLSIProject/Synth_Test.v Line: 5
-    Warning (13410): Pin "negOverflow" is stuck at GND File: E:/VLSIProject/Synth_Test.v Line: 6
 Info (286030): Timing-Driven Synthesis is running
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
-Info (21057): Implemented 172 device resources after synthesis - the final resource count might be different
+Info (21057): Implemented 235 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 65 input pins
     Info (21059): Implemented 35 output pins
-    Info (21061): Implemented 72 logic cells
-Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 20 warnings
-    Info: Peak virtual memory: 4833 megabytes
-    Info: Processing ended: Wed Dec  6 21:55:11 2023
-    Info: Elapsed time: 00:00:09
-    Info: Total CPU time (on all processors): 00:00:11
+    Info (21061): Implemented 135 logic cells
+Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 8 warnings
+    Info: Peak virtual memory: 4850 megabytes
+    Info: Processing ended: Fri Dec  8 21:46:00 2023
+    Info: Elapsed time: 00:00:06
+    Info: Total CPU time (on all processors): 00:00:15
 
 

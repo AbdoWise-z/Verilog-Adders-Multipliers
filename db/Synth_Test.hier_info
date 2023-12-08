@@ -1,623 +1,201 @@
-|Synth_Test
-a[0] => a[0].IN1
-a[1] => a[1].IN1
-a[2] => a[2].IN1
-a[3] => a[3].IN1
-a[4] => a[4].IN1
-a[5] => a[5].IN1
-a[6] => a[6].IN1
-a[7] => a[7].IN1
-a[8] => a[8].IN1
-a[9] => a[9].IN1
-a[10] => a[10].IN1
-a[11] => a[11].IN1
-a[12] => a[12].IN1
-a[13] => a[13].IN1
-a[14] => a[14].IN1
-a[15] => a[15].IN1
-a[16] => a[16].IN1
-a[17] => a[17].IN1
-a[18] => a[18].IN1
-a[19] => a[19].IN1
-a[20] => a[20].IN1
-a[21] => a[21].IN1
-a[22] => a[22].IN1
-a[23] => a[23].IN1
-a[24] => a[24].IN1
-a[25] => a[25].IN1
-a[26] => a[26].IN1
-a[27] => a[27].IN1
-a[28] => a[28].IN1
-a[29] => a[29].IN1
-a[30] => a[30].IN1
-a[31] => a[31].IN1
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-b[4] => b[4].IN1
-b[5] => b[5].IN1
-b[6] => b[6].IN1
-b[7] => b[7].IN1
-b[8] => b[8].IN1
-b[9] => b[9].IN1
-b[10] => b[10].IN1
-b[11] => b[11].IN1
-b[12] => b[12].IN1
-b[13] => b[13].IN1
-b[14] => b[14].IN1
-b[15] => b[15].IN1
-b[16] => b[16].IN1
-b[17] => b[17].IN1
-b[18] => b[18].IN1
-b[19] => b[19].IN1
-b[20] => b[20].IN1
-b[21] => b[21].IN1
-b[22] => b[22].IN1
-b[23] => b[23].IN1
-b[24] => b[24].IN1
-b[25] => b[25].IN1
-b[26] => b[26].IN1
-b[27] => b[27].IN1
-b[28] => b[28].IN1
-b[29] => b[29].IN1
-b[30] => b[30].IN1
-b[31] => b[31].IN1
-Cin => Carry[0].IN1
-posOverflow << <GND>
-negOverflow << <GND>
-S[0] << CarryByPassAdder_4Bit:loop1[0].CBPA.port3
-S[1] << CarryByPassAdder_4Bit:loop1[0].CBPA.port3
-S[2] << CarryByPassAdder_4Bit:loop1[0].CBPA.port3
-S[3] << CarryByPassAdder_4Bit:loop1[0].CBPA.port3
-S[4] << CarryByPassAdder_4Bit:loop1[4].CBPA.port3
-S[5] << CarryByPassAdder_4Bit:loop1[4].CBPA.port3
-S[6] << CarryByPassAdder_4Bit:loop1[4].CBPA.port3
-S[7] << CarryByPassAdder_4Bit:loop1[4].CBPA.port3
-S[8] << CarryByPassAdder_4Bit:loop1[8].CBPA.port3
-S[9] << CarryByPassAdder_4Bit:loop1[8].CBPA.port3
-S[10] << CarryByPassAdder_4Bit:loop1[8].CBPA.port3
-S[11] << CarryByPassAdder_4Bit:loop1[8].CBPA.port3
-S[12] << CarryByPassAdder_4Bit:loop1[12].CBPA.port3
-S[13] << CarryByPassAdder_4Bit:loop1[12].CBPA.port3
-S[14] << CarryByPassAdder_4Bit:loop1[12].CBPA.port3
-S[15] << CarryByPassAdder_4Bit:loop1[12].CBPA.port3
-S[16] << CarryByPassAdder_4Bit:loop1[16].CBPA.port3
-S[17] << CarryByPassAdder_4Bit:loop1[16].CBPA.port3
-S[18] << CarryByPassAdder_4Bit:loop1[16].CBPA.port3
-S[19] << CarryByPassAdder_4Bit:loop1[16].CBPA.port3
-S[20] << CarryByPassAdder_4Bit:loop1[20].CBPA.port3
-S[21] << CarryByPassAdder_4Bit:loop1[20].CBPA.port3
-S[22] << CarryByPassAdder_4Bit:loop1[20].CBPA.port3
-S[23] << CarryByPassAdder_4Bit:loop1[20].CBPA.port3
-S[24] << CarryByPassAdder_4Bit:loop1[24].CBPA.port3
-S[25] << CarryByPassAdder_4Bit:loop1[24].CBPA.port3
-S[26] << CarryByPassAdder_4Bit:loop1[24].CBPA.port3
-S[27] << CarryByPassAdder_4Bit:loop1[24].CBPA.port3
-S[28] << CarryByPassAdder_4Bit:loop1[28].CBPA.port3
-S[29] << CarryByPassAdder_4Bit:loop1[28].CBPA.port3
-S[30] << CarryByPassAdder_4Bit:loop1[28].CBPA.port3
-S[31] << CarryByPassAdder_4Bit:loop1[28].CBPA.port3
-Cout << CarryByPassAdder_4Bit:loop1[28].CBPA.port4
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA
+|CarryLookAheadAdder2
 a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
+a[0] => gen_block1[1].terms[0].IN0
 a[1] => P[1].IN0
+a[1] => gen_block1[2].terms[0].IN0
 a[2] => P[2].IN0
+a[2] => gen_block1[3].terms[0].IN0
 a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
+a[3] => gen_block1[4].terms[0].IN0
+a[4] => P[4].IN0
+a[4] => gen_block1[5].terms[0].IN0
+a[5] => P[5].IN0
+a[5] => gen_block1[6].terms[0].IN0
+a[6] => P[6].IN0
+a[6] => gen_block1[7].terms[0].IN0
+a[7] => P[7].IN0
+a[7] => gen_block1[8].terms[0].IN0
+a[8] => P[8].IN0
+a[8] => gen_block1[9].terms[0].IN0
+a[9] => P[9].IN0
+a[9] => gen_block1[10].terms[0].IN0
+a[10] => P[10].IN0
+a[10] => gen_block1[11].terms[0].IN0
+a[11] => P[11].IN0
+a[11] => gen_block1[12].terms[0].IN0
+a[12] => P[12].IN0
+a[12] => gen_block1[13].terms[0].IN0
+a[13] => P[13].IN0
+a[13] => gen_block1[14].terms[0].IN0
+a[14] => P[14].IN0
+a[14] => gen_block1[15].terms[0].IN0
+a[15] => P[15].IN0
+a[15] => gen_block1[16].terms[0].IN0
+a[16] => P[16].IN0
+a[16] => gen_block1[17].terms[0].IN0
+a[17] => P[17].IN0
+a[17] => gen_block1[18].terms[0].IN0
+a[18] => P[18].IN0
+a[18] => gen_block1[19].terms[0].IN0
+a[19] => P[19].IN0
+a[19] => gen_block1[20].terms[0].IN0
+a[20] => P[20].IN0
+a[20] => gen_block1[21].terms[0].IN0
+a[21] => P[21].IN0
+a[21] => gen_block1[22].terms[0].IN0
+a[22] => P[22].IN0
+a[22] => gen_block1[23].terms[0].IN0
+a[23] => P[23].IN0
+a[23] => gen_block1[24].terms[0].IN0
+a[24] => P[24].IN0
+a[24] => gen_block1[25].terms[0].IN0
+a[25] => P[25].IN0
+a[25] => gen_block1[26].terms[0].IN0
+a[26] => P[26].IN0
+a[26] => gen_block1[27].terms[0].IN0
+a[27] => P[27].IN0
+a[27] => gen_block1[28].terms[0].IN0
+a[28] => P[28].IN0
+a[28] => gen_block1[29].terms[0].IN0
+a[29] => P[29].IN0
+a[29] => gen_block1[30].terms[0].IN0
+a[30] => P[30].IN0
+a[30] => gen_block1[31].terms[0].IN0
+a[31] => P[31].IN0
+a[31] => G[32].IN0
+a[31] => negOverflow.IN1
+a[31] => posOverflow.IN1
+b[0] => P[0].IN1
+b[0] => gen_block1[1].terms[0].IN1
+b[1] => P[1].IN1
+b[1] => gen_block1[2].terms[0].IN1
+b[2] => P[2].IN1
+b[2] => gen_block1[3].terms[0].IN1
+b[3] => P[3].IN1
+b[3] => gen_block1[4].terms[0].IN1
+b[4] => P[4].IN1
+b[4] => gen_block1[5].terms[0].IN1
+b[5] => P[5].IN1
+b[5] => gen_block1[6].terms[0].IN1
+b[6] => P[6].IN1
+b[6] => gen_block1[7].terms[0].IN1
+b[7] => P[7].IN1
+b[7] => gen_block1[8].terms[0].IN1
+b[8] => P[8].IN1
+b[8] => gen_block1[9].terms[0].IN1
+b[9] => P[9].IN1
+b[9] => gen_block1[10].terms[0].IN1
+b[10] => P[10].IN1
+b[10] => gen_block1[11].terms[0].IN1
+b[11] => P[11].IN1
+b[11] => gen_block1[12].terms[0].IN1
+b[12] => P[12].IN1
+b[12] => gen_block1[13].terms[0].IN1
+b[13] => P[13].IN1
+b[13] => gen_block1[14].terms[0].IN1
+b[14] => P[14].IN1
+b[14] => gen_block1[15].terms[0].IN1
+b[15] => P[15].IN1
+b[15] => gen_block1[16].terms[0].IN1
+b[16] => P[16].IN1
+b[16] => gen_block1[17].terms[0].IN1
+b[17] => P[17].IN1
+b[17] => gen_block1[18].terms[0].IN1
+b[18] => P[18].IN1
+b[18] => gen_block1[19].terms[0].IN1
+b[19] => P[19].IN1
+b[19] => gen_block1[20].terms[0].IN1
+b[20] => P[20].IN1
+b[20] => gen_block1[21].terms[0].IN1
+b[21] => P[21].IN1
+b[21] => gen_block1[22].terms[0].IN1
+b[22] => P[22].IN1
+b[22] => gen_block1[23].terms[0].IN1
+b[23] => P[23].IN1
+b[23] => gen_block1[24].terms[0].IN1
+b[24] => P[24].IN1
+b[24] => gen_block1[25].terms[0].IN1
+b[25] => P[25].IN1
+b[25] => gen_block1[26].terms[0].IN1
+b[26] => P[26].IN1
+b[26] => gen_block1[27].terms[0].IN1
+b[27] => P[27].IN1
+b[27] => gen_block1[28].terms[0].IN1
+b[28] => P[28].IN1
+b[28] => gen_block1[29].terms[0].IN1
+b[29] => P[29].IN1
+b[29] => gen_block1[30].terms[0].IN1
+b[30] => P[30].IN1
+b[30] => gen_block1[31].terms[0].IN1
+b[31] => P[31].IN1
+b[31] => G[32].IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
+Cin => terms.IN1
 Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[0].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[4].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[8].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[12].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[16].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[20].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[24].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA
-a[0] => P[0].IN0
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[0] => _.IN1
-a[1] => P[1].IN0
-a[2] => P[2].IN0
-a[3] => P[3].IN0
-b[0] => b[0].IN1
-b[1] => b[1].IN1
-b[2] => b[2].IN1
-b[3] => b[3].IN1
-Cin => Carry[0].IN1
-S[0] <= FA:loop2[0].BitAdder.port3
-S[1] <= FA:loop2[1].BitAdder.port3
-S[2] <= FA:loop2[2].BitAdder.port3
-S[3] <= FA:loop2[3].BitAdder.port3
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[0].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[1].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[2].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
-
-
-|Synth_Test|CarryByPassAdder_4Bit:loop1[28].CBPA|FA:loop2[3].BitAdder
-a => S.IN0
-a => Cout.IN0
-b => S.IN1
-b => Cout.IN1
-Cin => S.IN1
-Cin => Cout.IN1
-S <= S.DB_MAX_OUTPUT_PORT_TYPE
-Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+S[0] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[1] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[2] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[3] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[4] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[5] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[6] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[7] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[8] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[9] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[10] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[11] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[12] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[13] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[14] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[15] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[16] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[17] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[18] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[19] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[20] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[21] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[22] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[23] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[24] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[25] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[26] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[27] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[28] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[29] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[30] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[31] <= S.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= terms.DB_MAX_OUTPUT_PORT_TYPE
+posOverflow <= posOverflow.DB_MAX_OUTPUT_PORT_TYPE
+negOverflow <= negOverflow.DB_MAX_OUTPUT_PORT_TYPE
 
 

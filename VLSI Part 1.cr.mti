@@ -1,0 +1,57 @@
+C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarryByPassAdder_4Bit
+
+Top level modules:
+	CarryByPassAdder_4Bit
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarryLookAheadAdder
+
+Top level modules:
+	CarryLookAheadAdder
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarrySelectAdder
+
+Top level modules:
+	CarrySelectAdder
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RippleCarryAdder
+
+Top level modules:
+	RippleCarryAdder
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_16Bit.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_16Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RippleCarryAdder_16Bit
+
+Top level modules:
+	RippleCarryAdder_16Bit
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FA.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarryByPassAdder
+
+Top level modules:
+	CarryByPassAdder
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VerilogAdder
+
+Top level modules:
+	VerilogAdder
+
+} {} {}}
