@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vCarryByPassAdder
-Z0 !s110 1702064466
+Z0 !s110 1702116598
 !i10b 1
 !s100 KVF@724MfSd=30i[fFgnP1
 I@[F7VKnfL:ZXLFhWhf@982
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1702064466.000000
+Z4 !s108 1702116598.000000
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v|
 !i113 1
@@ -34,26 +34,48 @@ vCarryByPassAdder_4Bit
 R0
 !i10b 1
 !s100 74?2HzYO];lMbP?A>PC;@2
-I_F11E^Jd5z3WDM<SIzSb^3
+IOX6hOjk?DJgAf^b8Mjn5K3
 R1
 R2
 w1702063110
-8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v
-FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v
+8C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v
+FC:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v
 L0 1
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v|
+!s107 C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v|
 !i113 1
 R5
 R6
 n@carry@by@pass@adder_4@bit
-vCarryLookAheadAdder
+vCarryByPassAdder_tb
 R0
+!i10b 1
+!s100 JHk?^i1`;eiz^oi_P=TF_1
+I>FIa4e<YIbo5LnCLTCA>n0
+R1
+R2
+w1702116162
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder_tb.v|
+!i113 1
+R5
+R6
+n@carry@by@pass@adder_tb
+vCarryLookAheadAdder
+!s110 1702064466
 !i10b 1
 !s100 ^?eTg?fhmJm`2d0_cDMab3
 I;?0?]H1e:JP_BVfPVGCMP1
@@ -67,7 +89,7 @@ R3
 r1
 !s85 0
 31
-R4
+!s108 1702064466.000000
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder.v|
 !i113 1
@@ -75,13 +97,13 @@ R5
 R6
 n@carry@look@ahead@adder
 vCarryLookAheadAdder2
-Z8 !s110 1702064467
+R0
 !i10b 1
-!s100 o]NeWW3oClh@RP3RODUQK2
-I=9Q3`Qz2]7ePS69eYN91W2
+!s100 hO5XRD0`DY^cWnldcLcRE2
+IMXac=AW_0ziQ7Qej]hAB@0
 R1
 R2
-w1702064442
+w1702064738
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder2.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder2.v
 L0 1
@@ -89,24 +111,46 @@ R3
 r1
 !s85 0
 31
-Z9 !s108 1702064467.000000
+R4
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder2.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder2.v|
 !i113 1
 R5
 R6
 n@carry@look@ahead@adder2
+vCarryLookAheadAdder_tb
+R0
+!i10b 1
+!s100 QHMeoY775_>fnNRI[=9=N2
+IKkMAezK;5SfINAJn7bM1S2
+R1
+R2
+w1702116217
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v|
+!i113 1
+R5
+R6
+n@carry@look@ahead@adder_tb
 vCarrySelectAdder
 R0
 !i10b 1
-!s100 6[aAiC?Z_ZFz`5laaU6VT3
-IgE4=7oQoHfFdP1Vo:Q21c0
+!s100 4DL1F8GkE>Bzj4L;Vc1g:2
+IdGh7eBlbFmJQBdONzQL1j3
 R1
 R2
-R7
+w1702112813
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder.v
-L0 2
+L0 1
 R3
 r1
 !s85 0
@@ -118,6 +162,28 @@ R4
 R5
 R6
 n@carry@select@adder
+vCarrySelectAdder_tb
+R0
+!i10b 1
+!s100 VH:d;WGW1[bCZT0<?EfdI3
+ID];MHS;>Nc7P=[YzH^@_c3
+R1
+R2
+w1702116492
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v|
+!i113 1
+R5
+R6
+n@carry@select@adder_tb
 vFA
 R0
 !i10b 1
@@ -141,13 +207,13 @@ R5
 R6
 n@f@a
 vRippleCarryAdder
-R8
+R0
 !i10b 1
-!s100 3N5dkZ@R=@9cDYj4P]7Od2
-IeolC7UCDHAR@T520^;:4]3
+!s100 XWgIAM29Qh6HFkPheS<fY2
+I1i6@i^IQUPRj[K9MizU`93
 R1
 R2
-w1702058789
+w1702112524
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder.v
 L0 1
@@ -155,7 +221,7 @@ R3
 r1
 !s85 0
 31
-R9
+R4
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder.v|
 !i113 1
@@ -163,7 +229,7 @@ R5
 R6
 n@ripple@carry@adder
 vRippleCarryAdder_16Bit
-R8
+R0
 !i10b 1
 !s100 f5oWWiL[<d=:K]YKc8]0c3
 ImH07f]iT?jb]KQ[2Cbm6Y1
@@ -177,13 +243,35 @@ R3
 r1
 !s85 0
 31
-R9
+R4
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_16Bit.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_16Bit.v|
 !i113 1
 R5
 R6
 n@ripple@carry@adder_16@bit
+vRippleCarryAdder_tb
+R0
+!i10b 1
+!s100 g@35e1:iVP4d>[QO49nLI2
+IAekhj8lE7ICMMjj>8gQk:0
+R1
+R2
+w1702116595
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v|
+!i113 1
+R5
+R6
+n@ripple@carry@adder_tb
 vSynth_Test
 !s110 1702057284
 !i10b 1
@@ -209,11 +297,11 @@ n@synth_@test
 vVerilogAdder
 R0
 !i10b 1
-!s100 C<TU;n7_77A]:cm3dOZ]f0
-IRTzlF=lEb[V>eDVcz8ndF3
+!s100 0Xn>h;L`EI13H;bR?b`n=2
+I_oP2L4NEME=kdi7XYXHFT3
 R1
 R2
-R7
+w1702112764
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v
 L0 1
@@ -221,10 +309,32 @@ R3
 r1
 !s85 0
 31
-R4
+!s108 1702116597.000000
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v|
 !i113 1
 R5
 R6
 n@verilog@adder
+vVerilogAdder_tb
+R0
+!i10b 1
+!s100 YUY9Rnj`Y][PD7SQGo?Z81
+I]mOEdm:iiDd=KUfV><A^h1
+R1
+R2
+w1702116590
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder_tb.v|
+!i113 1
+R5
+R6
+n@verilog@adder_tb
