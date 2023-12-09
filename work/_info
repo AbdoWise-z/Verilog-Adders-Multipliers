@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vCarryByPassAdder
-Z0 !s110 1702116598
+Z0 !s110 1702123508
 !i10b 1
 !s100 KVF@724MfSd=30i[fFgnP1
 I@[F7VKnfL:ZXLFhWhf@982
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1702116598.000000
+Z4 !s108 1702123508.000000
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v|
 !i113 1
@@ -34,20 +34,20 @@ vCarryByPassAdder_4Bit
 R0
 !i10b 1
 !s100 74?2HzYO];lMbP?A>PC;@2
-IOX6hOjk?DJgAf^b8Mjn5K3
+I_F11E^Jd5z3WDM<SIzSb^3
 R1
 R2
 w1702063110
-8C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v
-FC:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v
 L0 1
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v|
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v|
 !i113 1
 R5
 R6
@@ -206,6 +206,28 @@ R4
 R5
 R6
 n@f@a
+vFP32Adder
+R0
+!i10b 1
+!s100 WIbG:70>G^ENzOa[Qi=k30
+INo>WY[S?m]oL9Ukc1]dJl2
+R1
+R2
+w1702123505
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v|
+!i113 1
+R5
+R6
+n@f@p32@adder
 vRippleCarryAdder
 R0
 !i10b 1
@@ -257,7 +279,7 @@ R0
 IAekhj8lE7ICMMjj>8gQk:0
 R1
 R2
-w1702116595
+w1702116701
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v
 L0 3
@@ -309,7 +331,7 @@ R3
 r1
 !s85 0
 31
-!s108 1702116597.000000
+R4
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogAdder.v|
 !i113 1

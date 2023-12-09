@@ -12,7 +12,7 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	VerilogAdder_tb
 
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v {1 {vlog -work work -stats=none {C:\Users\xAbdoMo\Desktop\Uni\Projects\VLSI\VLSI_Project\CarryByPassAdder4_Bit.v}
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder4_Bit.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module CarryByPassAdder_4Bit
 
@@ -75,18 +75,18 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	CarryLookAheadAdder2
 
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module CarryLookAheadAdder_tb
-
-Top level modules:
-	CarryLookAheadAdder_tb
-
 } {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module CarrySelectAdder_tb
 
 Top level modules:
 	CarrySelectAdder_tb
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryLookAheadAdder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CarryLookAheadAdder_tb
+
+Top level modules:
+	CarryLookAheadAdder_tb
 
 } {} {}}
