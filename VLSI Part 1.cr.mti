@@ -26,6 +26,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	RippleCarryAdder
 
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VerilogMultiplier
+
+Top level modules:
+	VerilogMultiplier
+
 } {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FA.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FA.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module FA
@@ -74,6 +81,14 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	CarryLookAheadAdder2
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v {2 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FP32Adder
+** Warning: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v(63): (vlog-2182) 'c_exp' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	FP32Adder
 
 } {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarrySelectAdder_tb.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016

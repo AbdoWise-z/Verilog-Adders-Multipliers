@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vCarryByPassAdder
-Z0 !s110 1702123508
+Z0 !s110 1702207646
 !i10b 1
 !s100 KVF@724MfSd=30i[fFgnP1
 I@[F7VKnfL:ZXLFhWhf@982
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1702123508.000000
+Z4 !s108 1702207646.000000
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/CarryByPassAdder.v|
 !i113 1
@@ -209,11 +209,11 @@ n@f@a
 vFP32Adder
 R0
 !i10b 1
-!s100 WIbG:70>G^ENzOa[Qi=k30
-INo>WY[S?m]oL9Ukc1]dJl2
+!s100 ;fBILd<XI89YfaE=>RPUP3
+IRJ8NNGFFjcb;o]ejc3[851
 R1
 R2
-w1702123505
+w1702124105
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Adder.v
 L0 1
@@ -273,7 +273,7 @@ R5
 R6
 n@ripple@carry@adder_16@bit
 vRippleCarryAdder_tb
-R0
+!s110 1702207755
 !i10b 1
 !s100 g@35e1:iVP4d>[QO49nLI2
 IAekhj8lE7ICMMjj>8gQk:0
@@ -287,7 +287,7 @@ R3
 r1
 !s85 0
 31
-R4
+!s108 1702207755.000000
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/RippleCarryAdder_tb.v|
 !i113 1
@@ -316,6 +316,28 @@ r1
 R5
 R6
 n@synth_@test
+vTreeMultiplier
+!s110 1702207757
+!i10b 1
+!s100 >U3k[iAPQ:SZLU8Z1_3M?3
+Iz;447cdkdZ4n<5mf13C250
+R1
+R2
+w1702207744
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/TreeMultiplier.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/TreeMultiplier.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1702207757.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/TreeMultiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/TreeMultiplier.v|
+!i113 1
+R5
+R6
+n@tree@multiplier
 vVerilogAdder
 R0
 !i10b 1
@@ -360,3 +382,25 @@ R4
 R5
 R6
 n@verilog@adder_tb
+vVerilogMultiplier
+!s110 1702207647
+!i10b 1
+!s100 AdW@Q;_RC^GTAU7@2DGKP1
+ITm4BzCU===@YcOJI5=NMj1
+R1
+R2
+w1702144619
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogMultiplier.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogMultiplier.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1702207647.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogMultiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/VerilogMultiplier.v|
+!i113 1
+R5
+R6
+n@verilog@multiplier
