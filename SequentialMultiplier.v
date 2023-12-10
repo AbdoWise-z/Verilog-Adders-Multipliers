@@ -1,4 +1,4 @@
-module TreeMultiplier(
+module SequentialMultiplier(
     wire signed [31:0] a,
     wire signed [31:0] b,
     wire signed [62:0] c
