@@ -1,13 +1,13 @@
-Fitter Status : Successful - Fri Dec  8 21:46:40 2023
+Fitter Status : Successful - Mon Dec 11 15:13:26 2023
 Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
 Revision Name : Synth_Test
-Top-level Entity Name : CarryLookAheadAdder2
+Top-level Entity Name : Synth_Test
 Family : Cyclone V
 Device : 5CGXFC7C7F23C8
 Timing Models : Final
-Logic utilization (in ALMs) : 82 / 56,480 ( < 1 % )
-Total registers : 0
-Total pins : 100 / 268 ( 37 % )
+Logic utilization (in ALMs) : 2,157 / 56,480 ( 4 % )
+Total registers : 128
+Total pins : 130 / 268 ( 49 % )
 Total virtual pins : 0
 Total block memory bits : 0 / 7,024,640 ( 0 % )
 Total RAM Blocks : 0 / 686 ( 0 % )
