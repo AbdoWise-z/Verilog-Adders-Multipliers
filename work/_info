@@ -8,530 +8,596 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/18.1
+vAdder_tb
+!s110 1702492325
+!i10b 1
+!s100 Zj[RJc2Q9Af?<]5B:FgL23
+IGGCSd?jibL01nFLjIMbIz1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project
+w1702492318
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Adder_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Adder_tb.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1702492325.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Adder_tb.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@adder_tb
 vBoothMultiplier
-Z0 !s110 1702306363
+Z5 !s110 1702306363
 !i10b 1
 !s100 >O;W1T>4_BZFn_ezG`LHY2
 IeVNmG0`IH2cKPOX`Sf>e^1
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/abdo_/Desktop/VLSI_Project
+R0
+Z6 dC:/Users/abdo_/Desktop/VLSI_Project
 w1702305975
 8C:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier.v
 FC:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier.v
 L0 1
-Z3 OV;L;10.5b;63
+R2
 r1
 !s85 0
 31
-Z4 !s108 1702306363.000000
+Z7 !s108 1702306363.000000
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+R3
+R4
 n@booth@multiplier
 vBoothMultiplier_tb
-R0
+R5
 !i10b 1
 !s100 RNhN0mOln=KQnIQ>=[Q;n1
 I8hB2O1dCQ``5RMoDhnI3o3
-R1
-R2
+R0
+R6
 w1702306266
 8C:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier_tb.v
 FC:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier_tb.v
 L0 2
-R3
+R2
 r1
 !s85 0
 31
-R4
+R7
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/BoothMultiplier_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@booth@multiplier_tb
 vCarryByPassAdder
-Z7 !s110 1702306362
+Z8 !s110 1702492099
 !i10b 1
-!s100 KVF@724MfSd=30i[fFgnP1
-I=81GjEZP^4c^]8jU:Mg<10
+!s100 ?iIPT^A5o4T<fMVC@WKL[3
+I=MW>X2I1^zeVI5eL>Lc4R0
+R0
 R1
+Z9 w1702397055
+Z10 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryByPassAdder.v
+Z11 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryByPassAdder.v
+L0 30
 R2
-Z8 w1702219003
-8C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder.v
-FC:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder.v
-L0 1
-R3
 r1
 !s85 0
 31
-Z9 !s108 1702306362.000000
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder.v|
+Z12 !s108 1702492099.000000
+Z13 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryByPassAdder.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryByPassAdder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@by@pass@adder
 vCarryByPassAdder_4Bit
-R7
+R8
 !i10b 1
 !s100 74?2HzYO];lMbP?A>PC;@2
-Io6QJETo=Df^:K7AOKH?P`3
+Ig7_fg:R1A?DK4jVUBnjgF1
+R0
 R1
-R2
-R8
-8C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder4_Bit.v
-FC:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder4_Bit.v
+R9
+R10
+R11
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder4_Bit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder4_Bit.v|
+R12
+R13
+R14
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@by@pass@adder_4@bit
 vCarryByPassAdder_tb
-R7
+Z15 !s110 1702306362
 !i10b 1
 !s100 JHk?^i1`;eiz^oi_P=TF_1
 I^0gYeHo2zW7LhlizT8S^^3
-R1
-R2
-R8
+R0
+R6
+Z16 w1702219003
 8C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder_tb.v
 FC:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R9
+Z17 !s108 1702306362.000000
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarryByPassAdder_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@by@pass@adder_tb
 vCarryLookAheadAdder
-R7
+R15
 !i10b 1
 !s100 ^?eTg?fhmJm`2d0_cDMab3
 IfLoX;;F^Cogej9z5Q[@BD2
-R1
-R2
+R0
+R6
 w1702218991
 8C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder.v
 FC:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R9
+R17
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@look@ahead@adder
 vCarryLookAheadAdder2
-R7
-!i10b 1
-!s100 hO5XRD0`DY^cWnldcLcRE2
-I?JcN]AC2ThGhB4LUgHBN;2
-R1
-R2
 R8
-8C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder2.v
-FC:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder2.v
+!i10b 1
+!s100 R^D3@N>:oUHKb1?kBKQSV3
+I<46zeM1ifF3anMTH5^QSj3
+R0
+R1
+w1702402220
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder2.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder2.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder2.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder2.v|
+R12
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder2.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@look@ahead@adder2
+vCarryLookAheadAdder3
+R8
+!i10b 1
+!s100 b`9k3lE^0iaTJD9lcCGaA3
+IEJ8F@C?DnX4?5W8gzB:^b1
+R0
+R1
+w1702404653
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder3.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder3.v
+L0 1
+R2
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarryLookAheadAdder3.v|
+!i113 1
+R3
+R4
+n@carry@look@ahead@adder3
 vCarryLookAheadAdder_tb
-R7
+R15
 !i10b 1
 !s100 QHMeoY775_>fnNRI[=9=N2
 I;anHLLFLN2IfdB`UmEXBa0
-R1
-R2
-R8
+R0
+R6
+R16
 8C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder_tb.v
 FC:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R9
+R17
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarryLookAheadAdder_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@look@ahead@adder_tb
 vCarrySelectAdder
-R7
-!i10b 1
-!s100 4DL1F8GkE>Bzj4L;Vc1g:2
-IZ[E4a[jNg^gmDGSTXICbK0
-R1
-R2
 R8
-8C:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder.v
-FC:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder.v
-L0 1
-R3
+!i10b 1
+!s100 Y_fe<IWO@b:BjmBNWnFa<0
+Io1IY0_2;@2CVG_CM5]e<=0
+R0
+R1
+Z18 w1702400561
+Z19 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v
+Z20 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v
+L0 36
+R2
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder.v|
+R12
+Z21 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@select@adder
 vCarrySelectAdder_tb
-R7
+R15
 !i10b 1
 !s100 VH:d;WGW1[bCZT0<?EfdI3
 IM<<bNb5g:Xj839FWN`Kfc1
-R1
-R2
-R8
+R0
+R6
+R16
 8C:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder_tb.v
 FC:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R9
+R17
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/CarrySelectAdder_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@carry@select@adder_tb
 vFA
-R7
+R8
 !i10b 1
 !s100 4Zf6?6I>9NmS9<Cl8[ETe0
-I7]nXA`6O8WP6W@;QhLDjD2
+I_AOBfk6mI7@PNjaASFFXT3
+R0
 R1
-R2
-Z10 w1701895431
-8C:/Users/abdo_/Desktop/VLSI_Project/FA.v
-FC:/Users/abdo_/Desktop/VLSI_Project/FA.v
+R18
+R19
+R20
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/FA.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/FA.v|
+R12
+R21
+R22
 !i113 1
-R5
-R6
+R3
+R4
 n@f@a
 vFP32Adder
-R7
+R15
 !i10b 1
 !s100 ;fBILd<XI89YfaE=>RPUP3
 In40A]`8=7QXkC6bk:M5a10
-R1
-R2
-R8
+R0
+R6
+R16
 8C:/Users/abdo_/Desktop/VLSI_Project/FP32Adder.v
 FC:/Users/abdo_/Desktop/VLSI_Project/FP32Adder.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R9
+R17
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/FP32Adder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/FP32Adder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@f@p32@adder
-vHM
+vFP32Adder2
+R8
+!i10b 1
+!s100 M`cB6LKKj^nnaGke6oUi:0
+I?7nBJm>S9ADdgHYfF3m8>1
 R0
+R1
+w1702414740
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v
+L0 1
+R2
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v|
+!i113 1
+R3
+R4
+n@f@p32@adder2
+vHM
+R5
 !i10b 1
 !s100 =bjzCbUd9IHld14cW>]=l2
 I?7b;JIUfK=MYU1E^=6=JC2
-R1
-R2
-R8
-Z11 8C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
-Z12 FC:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
+R0
+R6
+R16
+Z23 8C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
+Z24 FC:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R4
-Z13 !s107 C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
-Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
+R7
+Z25 !s107 C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@h@m
 vRippleCarryAdder
-R7
+!s110 1702492098
 !i10b 1
-!s100 XWgIAM29Qh6HFkPheS<fY2
-I8f_<:_i:WJD@@:1^LhAS23
+!s100 3[o[Qk]AVfU1zK52jRC3=3
+I7>zP[XEgVLJ<jU4VS0`R[2
+R0
 R1
+w1702399317
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v
+Z27 L0 15
 R2
-R8
-8C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder.v
-FC:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder.v
-L0 1
-R3
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder.v|
+!s108 1702492098.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@ripple@carry@adder
 vRippleCarryAdder_16Bit
-R7
+R8
 !i10b 1
-!s100 f5oWWiL[<d=:K]YKc8]0c3
-ID0Z@BBR:ka_hz@b1JQRV>2
+!s100 S9[EGO7lY5Gc2Njo^:R:z1
+I:`LDb6@R5:nlB=?J]gdL=2
+R0
 R1
+R18
+R19
+R20
+R27
 R2
-R10
-8C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_16Bit.v
-FC:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_16Bit.v
-L0 1
-R3
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_16Bit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_16Bit.v|
+R12
+R21
+R22
 !i113 1
-R5
-R6
+R3
+R4
 n@ripple@carry@adder_16@bit
 vRippleCarryAdder_tb
-R7
+R15
 !i10b 1
 !s100 g@35e1:iVP4d>[QO49nLI2
 I;7;VEZon=`1?4z2zR`O943
-R1
-R2
-R8
+R0
+R6
+R16
 8C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_tb.v
 FC:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R9
+R17
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/RippleCarryAdder_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@ripple@carry@adder_tb
 vSequentialMultiplier
-R7
+R15
 !i10b 1
 !s100 5?dJBE`Tf>0XK[MVQXDI23
 IPe]i?@dQT[Uj9k@V1I>Y61
-R1
-R2
-R8
+R0
+R6
+R16
 8C:/Users/abdo_/Desktop/VLSI_Project/SequentialMultiplier.v
 FC:/Users/abdo_/Desktop/VLSI_Project/SequentialMultiplier.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R9
+R17
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/SequentialMultiplier.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/SequentialMultiplier.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@sequential@multiplier
 vSynchBoothMultiplier
 !i10b 1
-R1
+R0
 r1
 !s85 0
 31
 !s100 ^35OFULm:nn:2PShJ;RY`1
 Ia?zd`JE32JTjmR6[9Zj_z3
-R2
+R6
 w1702222114
 8C:\Users\abdo_\Desktop\VLSI_Project\SynchronizedBoothMultiplier.v
 FC:\Users\abdo_\Desktop\VLSI_Project\SynchronizedBoothMultiplier.v
 L0 2
-R3
+R2
 !s108 1702222116.000000
 !s107 C:\Users\abdo_\Desktop\VLSI_Project\SynchronizedBoothMultiplier.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\abdo_\Desktop\VLSI_Project\SynchronizedBoothMultiplier.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@synch@booth@multiplier
 vSynchronizedBoothMultiplier
-R0
+R5
 !i10b 1
 !s100 iO`01=egE_[kA<f0:0EnW2
 Ih7BF>?lEfPK=Q6Sl@jY:;2
-R1
-R2
+R0
+R6
 w1702305390
 8C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v
 FC:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v
 L0 2
-R3
+R2
 r1
 !s85 0
 31
-R4
+R7
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@synchronized@booth@multiplier
 vSynth_Test
-R0
+R5
 !i10b 1
 !s100 C<5QLMG5R0SKSS8g8Mo970
 ITP]j?<hZb7bc9E>HVXWE;3
-R1
-R2
+R0
+R6
 w1702300150
 8C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v
 FC:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v
 L0 2
-R3
+R2
 r1
 !s85 0
 31
-R4
+R7
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@synth_@test
 vTreeMultiplier
-R0
+R5
 !i10b 1
 !s100 [I70<5Ga_eSJdRJ7W>c<a0
 I`@zU3?25DQVGE9iD9F`j12
-R1
-R2
-R8
-R11
-R12
+R0
+R6
+R16
+R23
+R24
 L0 12
-R3
+R2
 r1
 !s85 0
 31
-R4
-R13
-R14
+R7
+R25
+R26
 !i113 1
-R5
-R6
+R3
+R4
 n@tree@multiplier
 vVerilogAdder
-R0
+!s110 1702492340
 !i10b 1
-!s100 0Xn>h;L`EI13H;bR?b`n=2
-IG<o6:mbSOai4M9?iF]Wa23
+!s100 dIlD0onoFbRUQok:HEF@92
+IZ;SH1C=C4gihcIY^j:J>g1
+R0
 R1
-R2
-w1702246220
-8C:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder.v
-FC:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder.v
+w1702392680
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder.v|
+!s108 1702492340.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@verilog@adder
 vVerilogAdder_tb
-R0
+R5
 !i10b 1
 !s100 YUY9Rnj`Y][PD7SQGo?Z81
 I[d4LbfM^<LJJZEMz5L=dL2
-R1
-R2
-R8
+R0
+R6
+R16
 8C:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder_tb.v
 FC:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R4
+R7
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/VerilogAdder_tb.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@verilog@adder_tb
 vVerilogMultiplier
-R0
+R5
 !i10b 1
 !s100 PQjlUWQPEW>4Ygb<L65c?1
 IVEjMOR9K3UCJhX_zWJVan0
-R1
-R2
+R0
+R6
 w1702306359
 8C:/Users/abdo_/Desktop/VLSI_Project/VerilogMultiplier.v
 FC:/Users/abdo_/Desktop/VLSI_Project/VerilogMultiplier.v
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R4
+R7
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/VerilogMultiplier.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/VerilogMultiplier.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@verilog@multiplier
