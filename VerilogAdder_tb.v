@@ -8,7 +8,7 @@ module VerilogAdder_tb();
   wire Cout, posOverflow, negOverflow;
 
   reg [31:0] expected_S;
-  reg expected_Cout, expected_posOverflow, expected_negOverflow;
+  reg expected_Cout, expected_overflow;
 
   reg [31:0] testcase;
   reg [31:0] total_passed = 32'b0;
@@ -19,8 +19,7 @@ module VerilogAdder_tb();
     .Cin(Cin),
     .S(S),
     .Cout(Cout),
-    .posOverflow(posOverflow),
-    .negOverflow(negOverflow)
+    .Overflow(
   );
 
   initial begin
