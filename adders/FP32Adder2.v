@@ -1,7 +1,7 @@
 module FP32Adder2(
-    input wire [31:0] a, //a = {sign_bit} 
-	input wire [31:0] b,
-    output wire [31:0]S,
+    input wire [31:0] a, //a = {sign_bit} {exp} {mantissa}
+	input wire [31:0] b, //b = {sign_bit} {exp} {mantissa}
+    output wire [31:0]S, //S = {sign_bit} {exp} {mantissa}
     output wire Overflow
 );
 

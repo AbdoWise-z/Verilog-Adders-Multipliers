@@ -12,7 +12,7 @@ module FP32Adder_tb();
   reg [31:0] testcase;
   reg [31:0] total_passed = 32'b0;
 
-  FP32Adder2_CLA uut (
+  FP32Adder2_Synth uut (
     .a(A),
     .b(B),
     .S(S),
@@ -99,7 +99,6 @@ module FP32Adder_tb();
                testcase, A, B, S, Overflow);
     end
 
-    // Additional 3 random test cases
     // Test Case 6:
     A          = 32'b11111111111010000111001010110000;
     B          = 32'b01000010001101000000000000000000; 
