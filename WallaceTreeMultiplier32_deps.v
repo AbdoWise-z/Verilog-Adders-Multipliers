@@ -23,22 +23,17 @@ endmodule
 
 
 module PartialMultiplication(
-	output reg[31:0][63:0] x,
+	output reg[2047:0] x,
 	input [31:0]a,
 	input [31:0]b);
-	integer i;
-	always @(a or b)
-	begin
-		for(i=0; i<32; i=i+1)
-		begin
-			if(b[i] === 1)
-			begin
-				x[i] <= (a << i);
-			end
-			else
-			 x[i] = 64'b0000000000000000000000000000000000000000000000000000000000000000;
-		end
-	end
+	genvar i;
+
+generate
+  for (i = 0; i < 32; i = i + 1) begin : gen_block
+    assign x[i * 64 + 63 -: 64] = (b[i] === 1) ? (a << i) : 64'b0000000000000000000000000000000000000000000000000000000000000000;
+  end
+endgenerate
+
 endmodule
 
 
