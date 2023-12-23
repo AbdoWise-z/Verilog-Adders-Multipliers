@@ -16,12 +16,6 @@ endmodule
 
 
 
-
-
-
-
-
-
 module PartialMultiplication(
 	output reg[2047:0] x,
 	input [31:0]a,
@@ -35,6 +29,3 @@ generate
 endgenerate
 
 endmodule
-
-
-

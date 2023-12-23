@@ -1,91 +1,4 @@
-C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module BoothMultiplier
--- Compiling module SyncBoothMultiplier
-
-Top level modules:
-	SyncBoothMultiplier
-
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module SequentialMultiplier_DW01_sub_0
--- Compiling module SequentialMultiplier_DW01_add_0
--- Compiling module SequentialMultiplier_DW02_mult_0
--- Compiling module SequentialMultiplier_DW01_add_1
--- Compiling module SequentialMultiplier_DW02_mult_1
--- Compiling module SequentialMultiplier_DW01_add_2
--- Compiling module SequentialMultiplier_DW02_mult_2
--- Compiling module SequentialMultiplier_DW01_add_3
--- Compiling module SequentialMultiplier_DW02_mult_3
--- Compiling module SequentialMultiplier_DW01_add_4
--- Compiling module SequentialMultiplier_DW02_mult_4
--- Compiling module SequentialMultiplier_DW01_add_5
--- Compiling module SequentialMultiplier_DW02_mult_5
--- Compiling module SequentialMultiplier_DW01_add_6
--- Compiling module SequentialMultiplier_DW02_mult_6
--- Compiling module SequentialMultiplier_DW01_add_7
--- Compiling module SequentialMultiplier_DW02_mult_7
--- Compiling module SequentialMultiplier_DW01_add_8
--- Compiling module SequentialMultiplier_DW02_mult_8
--- Compiling module SequentialMultiplier_DW01_add_9
--- Compiling module SequentialMultiplier_DW02_mult_9
--- Compiling module SequentialMultiplier_DW01_add_10
--- Compiling module SequentialMultiplier_DW02_mult_10
--- Compiling module SequentialMultiplier_DW01_add_11
--- Compiling module SequentialMultiplier_DW02_mult_11
--- Compiling module SequentialMultiplier_DW01_add_12
--- Compiling module SequentialMultiplier_DW02_mult_12
--- Compiling module SequentialMultiplier_DW01_add_13
--- Compiling module SequentialMultiplier_DW02_mult_13
--- Compiling module SequentialMultiplier_DW01_add_14
--- Compiling module SequentialMultiplier_DW02_mult_14
--- Compiling module SequentialMultiplier_DW01_add_15
--- Compiling module SequentialMultiplier_DW02_mult_15
--- Compiling module SequentialMultiplier_DW01_add_16
--- Compiling module SequentialMultiplier_DW02_mult_16
--- Compiling module SequentialMultiplier_DW01_add_17
--- Compiling module SequentialMultiplier_DW02_mult_17
--- Compiling module SequentialMultiplier_DW01_add_18
--- Compiling module SequentialMultiplier_DW02_mult_18
--- Compiling module SequentialMultiplier_DW01_add_19
--- Compiling module SequentialMultiplier_DW02_mult_19
--- Compiling module SequentialMultiplier_DW01_add_20
--- Compiling module SequentialMultiplier_DW02_mult_20
--- Compiling module SequentialMultiplier_DW01_add_21
--- Compiling module SequentialMultiplier_DW02_mult_21
--- Compiling module SequentialMultiplier_DW01_add_22
--- Compiling module SequentialMultiplier_DW02_mult_22
--- Compiling module SequentialMultiplier_DW01_add_23
--- Compiling module SequentialMultiplier_DW02_mult_23
--- Compiling module SequentialMultiplier_DW01_add_24
--- Compiling module SequentialMultiplier_DW02_mult_24
--- Compiling module SequentialMultiplier_DW01_add_25
--- Compiling module SequentialMultiplier_DW02_mult_25
--- Compiling module SequentialMultiplier_DW01_add_26
--- Compiling module SequentialMultiplier_DW02_mult_26
--- Compiling module SequentialMultiplier_DW01_add_27
--- Compiling module SequentialMultiplier_DW02_mult_27
--- Compiling module SequentialMultiplier_DW01_add_28
--- Compiling module SequentialMultiplier_DW02_mult_28
--- Compiling module SequentialMultiplier_DW01_add_29
--- Compiling module SequentialMultiplier_DW02_mult_29
--- Compiling module SequentialMultiplier_DW01_add_30
--- Compiling module SequentialMultiplier_DW02_mult_30
--- Compiling module SequentialMultiplier_DW01_sub_1
--- Compiling module SequentialMultiplier_Synth
-
-Top level modules:
-	SequentialMultiplier_Synth
-
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module VerilogMultiplier
--- Compiling module SyncVerilogMultiplier
-
-Top level modules:
-	SyncVerilogMultiplier
-
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/ALL.v {2 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/ALL.v
+C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/ALL.v {2 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/ALL.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module AND2X1
 -- Compiling module AND2X2
@@ -1323,12 +1236,239 @@ Top level modules:
 	XOR3X2
 	p405s_mmu_RF_64wordsX34bits_WRAP
 
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SequentialMultiplier_DW01_sub_0
+-- Compiling module SequentialMultiplier_DW01_add_0
+-- Compiling module SequentialMultiplier_DW02_mult_0
+-- Compiling module SequentialMultiplier_DW01_add_1
+-- Compiling module SequentialMultiplier_DW02_mult_1
+-- Compiling module SequentialMultiplier_DW01_add_2
+-- Compiling module SequentialMultiplier_DW02_mult_2
+-- Compiling module SequentialMultiplier_DW01_add_3
+-- Compiling module SequentialMultiplier_DW02_mult_3
+-- Compiling module SequentialMultiplier_DW01_add_4
+-- Compiling module SequentialMultiplier_DW02_mult_4
+-- Compiling module SequentialMultiplier_DW01_add_5
+-- Compiling module SequentialMultiplier_DW02_mult_5
+-- Compiling module SequentialMultiplier_DW01_add_6
+-- Compiling module SequentialMultiplier_DW02_mult_6
+-- Compiling module SequentialMultiplier_DW01_add_7
+-- Compiling module SequentialMultiplier_DW02_mult_7
+-- Compiling module SequentialMultiplier_DW01_add_8
+-- Compiling module SequentialMultiplier_DW02_mult_8
+-- Compiling module SequentialMultiplier_DW01_add_9
+-- Compiling module SequentialMultiplier_DW02_mult_9
+-- Compiling module SequentialMultiplier_DW01_add_10
+-- Compiling module SequentialMultiplier_DW02_mult_10
+-- Compiling module SequentialMultiplier_DW01_add_11
+-- Compiling module SequentialMultiplier_DW02_mult_11
+-- Compiling module SequentialMultiplier_DW01_add_12
+-- Compiling module SequentialMultiplier_DW02_mult_12
+-- Compiling module SequentialMultiplier_DW01_add_13
+-- Compiling module SequentialMultiplier_DW02_mult_13
+-- Compiling module SequentialMultiplier_DW01_add_14
+-- Compiling module SequentialMultiplier_DW02_mult_14
+-- Compiling module SequentialMultiplier_DW01_add_15
+-- Compiling module SequentialMultiplier_DW02_mult_15
+-- Compiling module SequentialMultiplier_DW01_add_16
+-- Compiling module SequentialMultiplier_DW02_mult_16
+-- Compiling module SequentialMultiplier_DW01_add_17
+-- Compiling module SequentialMultiplier_DW02_mult_17
+-- Compiling module SequentialMultiplier_DW01_add_18
+-- Compiling module SequentialMultiplier_DW02_mult_18
+-- Compiling module SequentialMultiplier_DW01_add_19
+-- Compiling module SequentialMultiplier_DW02_mult_19
+-- Compiling module SequentialMultiplier_DW01_add_20
+-- Compiling module SequentialMultiplier_DW02_mult_20
+-- Compiling module SequentialMultiplier_DW01_add_21
+-- Compiling module SequentialMultiplier_DW02_mult_21
+-- Compiling module SequentialMultiplier_DW01_add_22
+-- Compiling module SequentialMultiplier_DW02_mult_22
+-- Compiling module SequentialMultiplier_DW01_add_23
+-- Compiling module SequentialMultiplier_DW02_mult_23
+-- Compiling module SequentialMultiplier_DW01_add_24
+-- Compiling module SequentialMultiplier_DW02_mult_24
+-- Compiling module SequentialMultiplier_DW01_add_25
+-- Compiling module SequentialMultiplier_DW02_mult_25
+-- Compiling module SequentialMultiplier_DW01_add_26
+-- Compiling module SequentialMultiplier_DW02_mult_26
+-- Compiling module SequentialMultiplier_DW01_add_27
+-- Compiling module SequentialMultiplier_DW02_mult_27
+-- Compiling module SequentialMultiplier_DW01_add_28
+-- Compiling module SequentialMultiplier_DW02_mult_28
+-- Compiling module SequentialMultiplier_DW01_add_29
+-- Compiling module SequentialMultiplier_DW02_mult_29
+-- Compiling module SequentialMultiplier_DW01_add_30
+-- Compiling module SequentialMultiplier_DW02_mult_30
+-- Compiling module SequentialMultiplier_DW01_sub_1
+-- Compiling module SequentialMultiplier_Synth
+
+Top level modules:
+	SequentialMultiplier_Synth
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BoothMultiplier_DW01_add_0
+-- Compiling module BoothMultiplier_DW01_add_1
+-- Compiling module BoothMultiplier_DW01_add_2
+-- Compiling module BoothMultiplier_DW01_add_3
+-- Compiling module BoothMultiplier_DW01_add_4
+-- Compiling module BoothMultiplier_DW01_add_5
+-- Compiling module BoothMultiplier_DW01_add_6
+-- Compiling module BoothMultiplier_DW01_add_7
+-- Compiling module BoothMultiplier_DW01_add_8
+-- Compiling module BoothMultiplier_DW01_add_9
+-- Compiling module BoothMultiplier_DW01_add_10
+-- Compiling module BoothMultiplier_DW01_add_11
+-- Compiling module BoothMultiplier_DW01_add_12
+-- Compiling module BoothMultiplier_DW01_add_13
+-- Compiling module BoothMultiplier_DW01_add_14
+-- Compiling module BoothMultiplier_DW01_add_15
+-- Compiling module BoothMultiplier_DW01_add_16
+-- Compiling module BoothMultiplier_DW01_add_17
+-- Compiling module BoothMultiplier_DW01_add_18
+-- Compiling module BoothMultiplier_DW01_add_19
+-- Compiling module BoothMultiplier_DW01_add_20
+-- Compiling module BoothMultiplier_DW01_add_21
+-- Compiling module BoothMultiplier_DW01_add_22
+-- Compiling module BoothMultiplier_DW01_add_23
+-- Compiling module BoothMultiplier_DW01_add_24
+-- Compiling module BoothMultiplier_DW01_add_25
+-- Compiling module BoothMultiplier_DW01_add_26
+-- Compiling module BoothMultiplier_DW01_add_27
+-- Compiling module BoothMultiplier_DW01_add_28
+-- Compiling module BoothMultiplier_DW01_add_29
+-- Compiling module BoothMultiplier_DW01_add_30
+-- Compiling module BoothMultiplier_DW01_add_31
+-- Compiling module BoothMultiplier_DW01_add_32
+-- Compiling module BoothMultiplier_DW01_add_33
+-- Compiling module BoothMultiplier_DW01_add_34
+-- Compiling module BoothMultiplier_DW01_add_35
+-- Compiling module BoothMultiplier_DW01_add_36
+-- Compiling module BoothMultiplier_DW01_add_37
+-- Compiling module BoothMultiplier_DW01_add_38
+-- Compiling module BoothMultiplier_DW01_add_39
+-- Compiling module BoothMultiplier_DW01_add_40
+-- Compiling module BoothMultiplier_DW01_add_41
+-- Compiling module BoothMultiplier_DW01_add_42
+-- Compiling module BoothMultiplier_DW01_add_43
+-- Compiling module BoothMultiplier_DW01_add_44
+-- Compiling module BoothMultiplier_DW01_add_45
+-- Compiling module BoothMultiplier_DW01_add_46
+-- Compiling module BoothMultiplier_DW01_add_47
+-- Compiling module BoothMultiplier_DW01_add_48
+-- Compiling module BoothMultiplier_DW01_add_49
+-- Compiling module BoothMultiplier_DW01_add_50
+-- Compiling module BoothMultiplier_DW01_add_51
+-- Compiling module BoothMultiplier_DW01_add_52
+-- Compiling module BoothMultiplier_DW01_add_53
+-- Compiling module BoothMultiplier_DW01_add_54
+-- Compiling module BoothMultiplier_DW01_add_55
+-- Compiling module BoothMultiplier_DW01_add_56
+-- Compiling module BoothMultiplier_DW01_add_57
+-- Compiling module BoothMultiplier_DW01_add_58
+-- Compiling module BoothMultiplier_DW01_add_59
+-- Compiling module BoothMultiplier_DW01_add_60
+-- Compiling module BoothMultiplier_DW01_add_61
+-- Compiling module BoothMultiplier_DW01_inc_0
+-- Compiling module BoothMultiplier_Synth
+
+Top level modules:
+	BoothMultiplier_Synth
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SequentialMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SequentialMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SequentialMultiplier
+
+Top level modules:
+	SequentialMultiplier
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VerilogMultiplier
+-- Compiling module SyncVerilogMultiplier
+
+Top level modules:
+	SyncVerilogMultiplier
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncWallaceTreeMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncWallaceTreeMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ThreeLevelAdder64
+-- Compiling module PartialMultiplication
+-- Compiling module RecursiveCarryAdder64
+-- Compiling module and_xor
+-- Compiling module halfadder2
+-- Compiling module equalize
+-- Compiling module computePart
+-- Compiling module WallaceTreeMultiplier32
+-- Compiling module SyncWallaceTreeMultiplier
+
+Top level modules:
+	SyncWallaceTreeMultiplier
+
 } {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Sync-Block.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Sync-Block.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module SyncBlock
 
 Top level modules:
 	SyncBlock
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/VerilogMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/VerilogMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VerilogMultiplier
+
+Top level modules:
+	VerilogMultiplier
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/FP32Multiplier-Synth.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/FP32Multiplier-Synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FP32Multiplier_DW01_inc_0
+-- Compiling module FP32Multiplier_DW01_add_1
+-- Compiling module FP32Multiplier_DW01_add_2
+-- Compiling module FP32Multiplier_DW02_mult_0
+-- Compiling module FP32Multiplier_Synth
+
+Top level modules:
+	FP32Multiplier_Synth
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/WallaceTreeMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/WallaceTreeMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ThreeLevelAdder64
+-- Compiling module PartialMultiplication
+-- Compiling module RecursiveCarryAdder64
+-- Compiling module and_xor
+-- Compiling module halfadder2
+-- Compiling module equalize
+-- Compiling module computePart
+-- Compiling module WallaceTreeMultiplier32
+
+Top level modules:
+	WallaceTreeMultiplier32
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BoothMultiplier
+-- Compiling module SyncBoothMultiplier
+
+Top level modules:
+	SyncBoothMultiplier
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v {2 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module WallaceTreeMultiplier32_tb
+** Warning: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v(147): (vlog-2638) Bad name or identifier in Verilog compiler directive.  The following text was found where a compiler directive name or macro name was expected.: `.
+** Warning: C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v(147): (vlog-2638) Bad name or identifier in End of file found where a compiler directive name or macro name was expected.: EOF.
+
+Top level modules:
+	WallaceTreeMultiplier32_tb
+
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/BoothMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/BoothMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BoothMultiplier
+
+Top level modules:
+	BoothMultiplier
 
 } {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -1339,19 +1479,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	VerilogMultiplier_Synth
 
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SequentialMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SequentialMultiplier.v
+} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncFP32Multiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncFP32Multiplier.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module SequentialMultiplier
+-- Compiling module FP32Multiplier
+-- Compiling module SyncFP32Multiplier
 
 Top level modules:
-	SequentialMultiplier
-
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/BoothMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/BoothMultiplier.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module BoothMultiplier
-
-Top level modules:
-	BoothMultiplier
+	SyncFP32Multiplier
 
 } {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-VerilogMultiplier-Synth.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-VerilogMultiplier-Synth.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -1359,12 +1493,5 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	SyncVerilogMultiplier_Synth
-
-} {} {}} C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/VerilogMultiplier.v {1 {vlog -work work -stats=none C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/VerilogMultiplier.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module VerilogMultiplier
-
-Top level modules:
-	VerilogMultiplier
 
 } {} {}}

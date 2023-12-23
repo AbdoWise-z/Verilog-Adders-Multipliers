@@ -206,6 +206,27 @@ R9
 R10
 R11
 n@a@n@d4@x4
+vand_xor
+Z12 !s110 1703320653
+!i10b 1
+!s100 Zf:=iFP^eIBKL=S<UPo3k0
+IRUCnoJoZ2IAed_2<n]5WC1
+R1
+R2
+Z13 w1703320609
+Z14 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncWallaceTreeMultiplier.v
+Z15 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncWallaceTreeMultiplier.v
+L0 70
+R6
+r1
+!s85 0
+31
+Z16 !s108 1703320653.000000
+Z17 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncWallaceTreeMultiplier.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncWallaceTreeMultiplier.v|
+!i113 1
+R10
+R11
 vANTENNA
 R0
 !i10b 1
@@ -801,1431 +822,1431 @@ R10
 R11
 n@a@o@i@n@v@x4
 vBoothMultiplier
-Z12 !s110 1703316433
+Z19 !s110 1703316433
 !i10b 1
 !s100 >O;W1T>4_BZFn_ezG`LHY2
 I7==6gSgCda@R@7KVg;ceH0
 R1
 R2
-Z13 w1703316394
-Z14 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v
-Z15 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v
+Z20 w1703316394
+Z21 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v
+Z22 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v
 L0 1
 R6
 r1
 !s85 0
 31
-Z16 !s108 1703316433.000000
-Z17 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v|
-Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v|
+Z23 !s108 1703316433.000000
+Z24 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v|
+Z25 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncBoothMultiplier.v|
 !i113 1
 R10
 R11
 n@booth@multiplier
 vBoothMultiplier_DW01_add_0
-Z19 !s110 1703317304
+Z26 !s110 1703317304
 !i10b 1
 !s100 ;WInXdPISWooN[BZgzmko0
 I==^[j0kjQj]YjjI^IaTg82
 R1
 R2
-Z20 w1703317300
-Z21 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v
-Z22 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v
+Z27 w1703317300
+Z28 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v
+Z29 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v
 L0 8
 R6
 r1
 !s85 0
 31
-Z23 !s108 1703317304.000000
-Z24 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v|
-Z25 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v|
+Z30 !s108 1703317304.000000
+Z31 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v|
+Z32 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/BoothMultiplier-Synth.v|
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_0
 vBoothMultiplier_DW01_add_1
-R19
+R26
 !i10b 1
 !s100 c`6mADFmQW0g3SiogcmE@3
 I4<]@bJoaWe1cX`l4S[CND0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 82
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_1
 vBoothMultiplier_DW01_add_10
-R19
+R26
 !i10b 1
 !s100 TCPHI5S3YdnLY:^B_3n=i3
 IJ:hH70;==dk;MXJoUT]U30
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 763
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_10
 vBoothMultiplier_DW01_add_11
-R19
+R26
 !i10b 1
 !s100 M:La^_B<2Ad7AIQCk@6C;1
 I`YA7Yi2JBg[R3VVnM9NMZ3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 837
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_11
 vBoothMultiplier_DW01_add_12
-R19
+R26
 !i10b 1
 !s100 aIZ=U=HYPnkG71d=01@RA0
 ICL8B=;A?d=dEYIj7>KKhH0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 914
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_12
 vBoothMultiplier_DW01_add_13
-R19
+R26
 !i10b 1
 !s100 0dBj6nB^g41:GnjcfC1_J1
 IHYi2`bQOij`aEjAz86@6j1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 988
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_13
 vBoothMultiplier_DW01_add_14
-R19
+R26
 !i10b 1
 !s100 E]oD67Y3KEmAP>SdPTM;c2
 Im`cTKYXmY98Q44F?EP>^@0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1065
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_14
 vBoothMultiplier_DW01_add_15
-R19
+R26
 !i10b 1
 !s100 dM7<anGE3RdbXlCBz[C;F2
 IPK1iISIo7SYbY>MC;]YVY0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1139
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_15
 vBoothMultiplier_DW01_add_16
-R19
+R26
 !i10b 1
 !s100 ;@=koZ_VFzZ0FnGDcBhHP0
 IPdoAFjmQ]V[zn06kaoJQn0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1216
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_16
 vBoothMultiplier_DW01_add_17
-R19
+R26
 !i10b 1
 !s100 RQ>4KclT:KBN6J7OkUk_?2
 IWIh?O>J46Yi5^M3f;BhCd0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1290
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_17
 vBoothMultiplier_DW01_add_18
-R19
+R26
 !i10b 1
 !s100 ]k2f1@QN2lPfWM=7C1ddh1
 I0P`FciNgc=SgCDCRR5[>n3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1367
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_18
 vBoothMultiplier_DW01_add_19
-R19
+R26
 !i10b 1
 !s100 ;ib6ZWk_7COY`DfDc@6@K0
 IP=D3?5WCVhMbD?QZ6WY;e2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1441
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_19
 vBoothMultiplier_DW01_add_2
-R19
+R26
 !i10b 1
 !s100 kXPQHRCJCNd4C0FOe`Zmj3
 IHkg_K2AT6AjLK7>A2]JWm3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 159
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_2
 vBoothMultiplier_DW01_add_20
-R19
+R26
 !i10b 1
 !s100 ]4@39GTI5_K]lh9f6_Ph22
 I=hV9DWHKD^5IkF[8o[FKn0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1518
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_20
 vBoothMultiplier_DW01_add_21
-R19
+R26
 !i10b 1
 !s100 kncJ]g>36>KEjm<DFAMlM0
 IS`Z9GUBN2GLWQ3GA6Q^2G3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1592
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_21
 vBoothMultiplier_DW01_add_22
-R19
+R26
 !i10b 1
 !s100 MOd7i<U<fa5F6ihSQb`@R0
 IKLC?a7D`<hHmn6D5O;JCb1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1669
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_22
 vBoothMultiplier_DW01_add_23
-R19
+R26
 !i10b 1
 !s100 7JFJ_clZX`S`h?M2^JCOD3
 I]>@D2<QPmea5CamQE4_R_0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1743
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_23
 vBoothMultiplier_DW01_add_24
-R19
+R26
 !i10b 1
 !s100 _RgFE77_V1ZNKDiS9hUC43
 Iz_h6J_dPfUkl0E01P_=8X2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1820
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_24
 vBoothMultiplier_DW01_add_25
-R19
+R26
 !i10b 1
 !s100 0TjQWCfh`J_4R>_AlP9ZD2
 Imna^lm2Cj`;3m[bkjFZza2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1894
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_25
 vBoothMultiplier_DW01_add_26
-R19
+R26
 !i10b 1
 !s100 AeP;E;Nz8I6XHbIP:@NF42
 I`lKI2GVEXoz5Lb<JM=P_42
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 1971
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_26
 vBoothMultiplier_DW01_add_27
-R19
+R26
 !i10b 1
 !s100 Xl56H4?eJQ?<JCo1:X>2f1
 I4WfVezbOM]Ti3O@5>VK^83
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2045
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_27
 vBoothMultiplier_DW01_add_28
-R19
+R26
 !i10b 1
 !s100 k;Z]ZO^B?TiCl;e7^2n:C1
 ICQSQRoDP@F5dX=D9>3<X01
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2122
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_28
 vBoothMultiplier_DW01_add_29
-R19
+R26
 !i10b 1
 !s100 3Y2a5M`IQRAjgBVXSUbF80
 IePlC4`[:kZJAIYM8IK@f10
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2196
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_29
 vBoothMultiplier_DW01_add_3
-R19
+R26
 !i10b 1
 !s100 2Pj@KJ7m4[]KOjjWM9J2o3
 I6ATR@EQe8[W:b^[GZ;aR51
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 233
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_3
 vBoothMultiplier_DW01_add_30
-R19
+R26
 !i10b 1
 !s100 E3VmD0d2_63ZS5S][YPbR0
 IS4hcQQ0[d0I>KgPaFJ;:A2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2273
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_30
 vBoothMultiplier_DW01_add_31
-R19
+R26
 !i10b 1
 !s100 UikVPS8M6j?CSdomO`]XE3
 I`QP]GTL5K5A;3bZ;TgFb>2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2347
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_31
 vBoothMultiplier_DW01_add_32
-R19
+R26
 !i10b 1
 !s100 BPH5jCW4>m3U=Hg4FBS]83
 ISK;YefNYG=oiH?IT8Q9O73
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2424
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_32
 vBoothMultiplier_DW01_add_33
-R19
+R26
 !i10b 1
 !s100 kJQ96cae=IeILoz]E;6;^2
 I70Ml^W72nV9YRgm9h12F61
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2498
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_33
 vBoothMultiplier_DW01_add_34
-R19
+R26
 !i10b 1
 !s100 :?fgQeTJGDDiiS`?e89<g2
 IzKNiFod5l97[M6DCQP@PK0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2575
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_34
 vBoothMultiplier_DW01_add_35
-R19
+R26
 !i10b 1
 !s100 ^DoE9Dm@BSGJzck5aENHi1
 InMLgUe;8l[heMMGHMX6i=2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2649
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_35
 vBoothMultiplier_DW01_add_36
-R19
+R26
 !i10b 1
 !s100 Z4Z7acnAgX7AW4h6UN7>n2
 ID@S6obNZnA500MBm2RjgL0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2726
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_36
 vBoothMultiplier_DW01_add_37
-R19
+R26
 !i10b 1
 !s100 1z@B>nTeVM^ig@O;fTjUJ1
 ILWLSCcGI894PYDkmm43Vd2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2800
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_37
 vBoothMultiplier_DW01_add_38
-R19
+R26
 !i10b 1
 !s100 aVY5RiOLfceIPVLDS0SXQ3
 IzXOKoj=`:HCm:9N<[el]62
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2877
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_38
 vBoothMultiplier_DW01_add_39
-R19
+R26
 !i10b 1
 !s100 [bWYMn1nES:P[0iUicl?`3
 Ik@:SQ_9dk4ofZblQZlbmK2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 2951
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_39
 vBoothMultiplier_DW01_add_4
-R19
+R26
 !i10b 1
 !s100 ``<k`bj=^DdILB>[AaeJQ3
 IHRF2Pf<>fQGnXLbMz_HIj0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 310
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_4
 vBoothMultiplier_DW01_add_40
-R19
+R26
 !i10b 1
 !s100 ZU4[5MI=Z]QcKVK1HVn^51
 I@L<`>Db?@dBbFQ:minNRg2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3028
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_40
 vBoothMultiplier_DW01_add_41
-R19
+R26
 !i10b 1
 !s100 h3:8eoM_N2:eUn8dGCoi60
 I?jTNd9knPM9Tll91X2:DR0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3102
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_41
 vBoothMultiplier_DW01_add_42
-R19
+R26
 !i10b 1
 !s100 [E`J>;[GF05N]zBdRK`F]0
 IKRbd;a7dTaoMLXm5>^bM<1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3179
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_42
 vBoothMultiplier_DW01_add_43
-R19
+R26
 !i10b 1
 !s100 0zI3K]nFHiUPMNTXem5R;3
 Igc_R35<V:oRU>=BY3zCjC0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3253
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_43
 vBoothMultiplier_DW01_add_44
-R19
+R26
 !i10b 1
 !s100 X:kZ=>S4W;0HFQmR?N<m;1
 I>W_2OLfLz9F=aXUIi?L2g3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3330
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_44
 vBoothMultiplier_DW01_add_45
-R19
+R26
 !i10b 1
 !s100 4P=e5@0dSLe:?iVQDdBWQ0
 I5gZIQVEWbRk5X@MUHf4fz2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3404
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_45
 vBoothMultiplier_DW01_add_46
-R19
+R26
 !i10b 1
 !s100 3Om<_NN^:NAkU]3S6J^=W1
 IHehPIoEo4:bZj64`iIX9J0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3481
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_46
 vBoothMultiplier_DW01_add_47
-R19
+R26
 !i10b 1
 !s100 NGPV:Ro87EfeTDdWk_afY3
 I[X840ilT?TI:6KMR[4A4f1
 R1
 R2
-R20
-R21
-R22
-Z26 L0 3555
+R27
+R28
+R29
+Z33 L0 3555
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_47
 vBoothMultiplier_DW01_add_48
-R19
+R26
 !i10b 1
 !s100 7D;5:MZno61?kZS>G858c2
 IlY65T=AR?aii[GkL@JQ8J0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3632
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_48
 vBoothMultiplier_DW01_add_49
-R19
+R26
 !i10b 1
 !s100 87<XEh;=gK_F7G2]CUBS72
 Ic_EPcEiniDckSdR2h]cJi2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3706
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_49
 vBoothMultiplier_DW01_add_5
-R19
+R26
 !i10b 1
 !s100 Ana097n4kP]PHgdF2DVj_1
 I@cQeT9Of2oSdmBCacEa_n2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 384
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_5
 vBoothMultiplier_DW01_add_50
-R19
+R26
 !i10b 1
 !s100 F5AgD?9_e:T6F[:>ob6oY0
 I;54T3VmBd0ZEV63Zck=]F0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3783
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_50
 vBoothMultiplier_DW01_add_51
-R19
+R26
 !i10b 1
 !s100 J5UC8?nAedX4`>c_ES99J1
 IU]l1i_OeXPSGF2^`mf@`F1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3857
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_51
 vBoothMultiplier_DW01_add_52
-R19
+R26
 !i10b 1
 !s100 gC1QZNKFa>nT:3>BaWXbX3
 ID<Q@^SGlHYIgo62kk=YoG3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 3934
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_52
 vBoothMultiplier_DW01_add_53
-R19
+R26
 !i10b 1
 !s100 8iiKLn<d^ljDN^_Df?2VJ2
 IYANWkMiPWSNeIl_>_T;Se3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4008
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_53
 vBoothMultiplier_DW01_add_54
-R19
+R26
 !i10b 1
 !s100 T93BA]1Q4Q2UWddW?Z@KJ3
 IYIX:YPi:]P4k[?KYHo18^3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4085
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_54
 vBoothMultiplier_DW01_add_55
-R19
+R26
 !i10b 1
 !s100 RF8N6dn_Y1o_A`QDTmOoY3
 IF[j=Je?zkfCFP[]fHY?If0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4159
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_55
 vBoothMultiplier_DW01_add_56
-R19
+R26
 !i10b 1
 !s100 XG07K_MBUWn<nUMU@7zVJ0
 I7Io<m;7E9Y;1LBB;8:m6U1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4236
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_56
 vBoothMultiplier_DW01_add_57
-R19
+R26
 !i10b 1
 !s100 ]X5:dYHdCYBaze5Z0`KW>0
 IXOKDNQ5a]:f0?_=7KcP]e3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4310
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_57
 vBoothMultiplier_DW01_add_58
-R19
+R26
 !i10b 1
 !s100 a?Q[33fZEI1iYBbBg7@Qe0
 Ibi=3e:G2=:@66P_i:j;IN3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4387
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_58
 vBoothMultiplier_DW01_add_59
-R19
+R26
 !i10b 1
 !s100 f5`SkUjzW9[cSBW9Xhdod2
 IbTznF][86oYClWG`MONVz2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4461
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_59
 vBoothMultiplier_DW01_add_6
-R19
+R26
 !i10b 1
 !s100 <G5h8CFEPJS]2oMZ?1_f>3
 I>R1858nGJ`8X1Bb2HBg`Y1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 461
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_6
 vBoothMultiplier_DW01_add_60
-R19
+R26
 !i10b 1
 !s100 Qd;2gaGeL8A:Pk7>;d=Z]1
 I5GO:`@4I<ER;OCCG2cTj:2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4538
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_60
 vBoothMultiplier_DW01_add_61
-R19
+R26
 !i10b 1
 !s100 dU;lkHkEg9`]46BOT=hGo1
 I1800KUX<@H`Rd`LzQ^QmX1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4612
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_61
 vBoothMultiplier_DW01_add_7
-R19
+R26
 !i10b 1
 !s100 Fk:9cYYX[JDJ:J9k75EXT0
 I3QXb6=WkF;;Y_E<2ON58a0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 535
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_7
 vBoothMultiplier_DW01_add_8
-R19
+R26
 !i10b 1
 !s100 0KGP9Tk7WbnoAT]ImNU^[1
 Ink0P`b4b@29UFkil3mTPO2
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 612
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_8
 vBoothMultiplier_DW01_add_9
-R19
+R26
 !i10b 1
 !s100 oGPY^:Z[YJ`ZgJOAG_1j<0
 Ih<Mc=EYQCh^FBTljSaQ3P0
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 686
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_add_9
 vBoothMultiplier_DW01_inc_0
-R19
+R26
 !i10b 1
 !s100 [Xi0P^Ea=JAzOzB^Al]893
 I@jgWlJ?bTbf692jz1?G2L1
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4689
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
 n@booth@multiplier_@d@w01_inc_0
 vBoothMultiplier_Synth
-R19
+R26
 !i10b 1
 !s100 `TI=[D[]JHY_IS5S9?^YB1
 I]oUPnM8iEXI=;CjXYFgiX3
 R1
 R2
-R20
-R21
-R22
+R27
+R28
+R29
 L0 4730
 R6
 r1
 !s85 0
 31
-R23
-R24
-R25
+R30
+R31
+R32
 !i113 1
 R10
 R11
@@ -2494,6 +2515,28 @@ R9
 R10
 R11
 n@c@g@l@p@p@s@x8
+vcomputePart
+R12
+!i10b 1
+!s100 i:VChm<M^MMo@9>7gNikH3
+IYnKkK[IUS3VXN8`mKkmMl0
+R1
+R2
+R13
+R14
+R15
+L0 89
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+ncompute@part
 vdataram_64X34
 R0
 !i10b 1
@@ -3133,22 +3176,23 @@ R10
 R11
 n@d@f@f@x2
 vequalize
+R12
 !i10b 1
+!s100 NTLCaFggR=0jHh<L9H10C3
+IJJNT<l^ZZGG^R>a;hCJzd1
 R1
+R2
+R13
+R14
+R15
+Z34 L0 83
+R6
 r1
 !s85 0
 31
-!s100 Hah;>f38KN<6z8;S?i7b@2
-IaOg;PJN@bnEYNZ26=kKj91
-Z27 dC:/Users/abdo_/Desktop/VLSI_Project
-Z28 w1702338949
-Z29 8RecursiveCarryAdder64.v
-Z30 FRecursiveCarryAdder64.v
-L0 62
-R6
-Z31 !s108 1702505183.000000
-Z32 !s107 RecursiveCarryAdder64.v|WallaceTreeMultiplier32_deps.v|C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32.v|
-Z33 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32.v|
+R16
+R17
+R18
 !i113 1
 R10
 R11
@@ -3161,14 +3205,14 @@ r1
 !s100 4Zf6?6I>9NmS9<Cl8[ETe0
 I_AOBfk6mI7@PNjaASFFXT3
 R2
-Z34 w1702400561
-Z35 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v
-Z36 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v
+Z35 w1702400561
+Z36 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v
+Z37 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v
 L0 1
 R6
-Z37 !s108 1702585638.000000
-Z38 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v|
-Z39 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v|
+Z38 !s108 1702585638.000000
+Z39 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v|
+Z40 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/CarrySelectAdder.v|
 !i113 1
 R10
 R11
@@ -3182,14 +3226,14 @@ r1
 !s100 LT`8fNjI1gDoKY^Zi^P5V2
 IG6XSF3QVVCi;J]6nMlUzH1
 R2
-Z40 w1702584552
-Z41 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v
-Z42 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v
+Z41 w1702584552
+Z42 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v
+Z43 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v
 L0 8
 R6
-Z43 !s108 1702585640.000000
-Z44 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v|
-Z45 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v|
+Z44 !s108 1702585640.000000
+Z45 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v|
+Z46 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/RippleAdder-Synth.v|
 !i113 1
 R10
 R11
@@ -3246,8 +3290,8 @@ r1
 31
 !s100 ;fBILd<XI89YfaE=>RPUP3
 In40A]`8=7QXkC6bk:M5a10
-R27
-Z46 w1702219003
+Z47 dC:/Users/abdo_/Desktop/VLSI_Project
+Z48 w1702219003
 8C:/Users/abdo_/Desktop/VLSI_Project/FP32Adder.v
 FC:/Users/abdo_/Desktop/VLSI_Project/FP32Adder.v
 L0 1
@@ -3273,7 +3317,7 @@ w1702582534
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v
 L0 1
 R6
-R37
+R38
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder2.v|
 !i113 1
@@ -3294,7 +3338,7 @@ w1702500820
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder-CLA.v
 L0 72
 R6
-R37
+R38
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder-CLA.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/FP32Adder-CLA.v|
 !i113 1
@@ -3310,14 +3354,14 @@ r1
 !s100 ^6oCBlBB`ZJ:;ZZ5Q[2OP3
 I0a_E[20NE29N2:nfn<j2g2
 R2
-Z47 w1702501193
-Z48 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v
-Z49 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v
+Z49 w1702501193
+Z50 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v
+Z51 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v
 L0 272
 R6
-R43
-Z50 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v|
-Z51 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v|
+R44
+Z52 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v|
+Z53 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder-CLA-Synth.v|
 !i113 1
 R10
 R11
@@ -3331,14 +3375,14 @@ r1
 !s100 N`DWfZ7O_SB]oD4L<hd`g1
 IPE4X99JSadV1FQ>F:Z0:Z0
 R2
-R47
-R48
 R49
-L0 452
-R6
-R43
 R50
 R51
+L0 452
+R6
+R44
+R52
+R53
 !i113 1
 R10
 R11
@@ -3352,14 +3396,14 @@ r1
 !s100 >LH6X[jn3n0[?E<ehhamR2
 IoOi3OfzZlEKc=>b@<kVJY3
 R2
-R47
-R48
 R49
-L0 632
-R6
-R43
 R50
 R51
+L0 632
+R6
+R44
+R52
+R53
 !i113 1
 R10
 R11
@@ -3373,14 +3417,14 @@ r1
 !s100 >aBze`Ac@S@In[z]hzS7B1
 I`_onI5Kf:HFz6iX[IMC:n3
 R2
-Z52 w1702499543
-Z53 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v
-Z54 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v
+Z54 w1702499543
+Z55 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v
+Z56 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v
 L0 8
 R6
-R43
-Z55 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v|
-Z56 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v|
+R44
+Z57 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v|
+Z58 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/FP32Adder2-Synth.v|
 !i113 1
 R10
 R11
@@ -3394,14 +3438,14 @@ r1
 !s100 E7<`PaCBCND>mbnbe4Kjo3
 Id0==?i5J<iOTDERbCH^j43
 R2
-R52
-R53
 R54
-Z57 L0 132
-R6
-R43
 R55
 R56
+L0 132
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3415,14 +3459,14 @@ r1
 !s100 iUOmKB[D2H;GCCC0gSz[T3
 IHn`7b4Ofl;M`RZ<G9bdY22
 R2
-R52
-R53
 R54
-L0 115
-R6
-R43
 R55
 R56
+L0 115
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3436,14 +3480,14 @@ r1
 !s100 YgkE4K25?:WHG]K9zk3471
 IdM2LbGCnmeI[akOC`ZEf33
 R2
-R52
-R53
 R54
-L0 34
-R6
-R43
 R55
 R56
+L0 34
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3457,14 +3501,14 @@ r1
 !s100 d?c>7XgUddaTP3m0CAGN@0
 Ih:JlYifUj5=NGPJ`8HjD`0
 R2
-R52
-R53
 R54
-L0 373
-R6
-R43
 R55
 R56
+L0 373
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3478,14 +3522,14 @@ r1
 !s100 C^e7c?0C;e<ocI2oc0UUM2
 IKZ`g^PZQHmJ=UKOn49ji=3
 R2
-R52
-R53
 R54
-L0 585
-R6
-R43
 R55
 R56
+L0 585
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3499,14 +3543,14 @@ r1
 !s100 F?VU_UR078UGf5dOLiX1D1
 Iib4^RMz9hFc3>KE<>2WlG1
 R2
-R52
-R53
 R54
-L0 191
-R6
-R43
 R55
 R56
+L0 191
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3520,14 +3564,14 @@ r1
 !s100 o;08]ge3QZhMz0<LBNzhX0
 Iie>]S`cS=EGSOUi@kI;Xl2
 R2
-R52
-R53
 R54
-L0 403
-R6
-R43
 R55
 R56
+L0 403
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3541,14 +3585,14 @@ r1
 !s100 7J5oaGnPAehg?jh_Wl83V0
 Idaad9F^o7eEFU^@ROm9[;1
 R2
-R52
-R53
 R54
-L0 615
-R6
-R43
 R55
 R56
+L0 615
+R6
+R44
+R57
+R58
 !i113 1
 R10
 R11
@@ -3574,6 +3618,160 @@ R6
 R10
 R11
 n@f@p32@adder_tb
+vFP32Multiplier
+Z59 !s110 1703323271
+!i10b 1
+!s100 L1?@[X[40J`BfVG2<ZJcB0
+I;nlEO@GYTbVzW8NSFA6;m2
+R1
+R2
+w1703322712
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncFP32Multiplier.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncFP32Multiplier.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z60 !s108 1703323271.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncFP32Multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncFP32Multiplier.v|
+!i113 1
+R10
+R11
+n@f@p32@multiplier
+vFP32Multiplier_DW01_add_1
+R59
+!i10b 1
+!s100 HBl^ZGDm5FJ]n75X1`U`Z0
+I8fRBANF4FdBTn[kZ<nAoH3
+R1
+R2
+Z61 w1703323230
+Z62 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/FP32Multiplier-Synth.v
+Z63 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/FP32Multiplier-Synth.v
+L0 25
+R6
+r1
+!s85 0
+31
+R60
+Z64 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/FP32Multiplier-Synth.v|
+Z65 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/FP32Multiplier-Synth.v|
+!i113 1
+R10
+R11
+n@f@p32@multiplier_@d@w01_add_1
+vFP32Multiplier_DW01_add_2
+R59
+!i10b 1
+!s100 DiUeQLLU6m1be^@zHhZJ@0
+IHb6B=?Tf=c=^[DIPHk0TS1
+R1
+R2
+R61
+R62
+R63
+L0 51
+R6
+r1
+!s85 0
+31
+R60
+R64
+R65
+!i113 1
+R10
+R11
+n@f@p32@multiplier_@d@w01_add_2
+vFP32Multiplier_DW01_inc_0
+R59
+!i10b 1
+!s100 kN^zl:ETXIiKz>f>a[QCM0
+IzjcEF1e;Eb=WnFgb4aIW51
+R1
+R2
+R61
+R62
+R63
+L0 8
+R6
+r1
+!s85 0
+31
+R60
+R64
+R65
+!i113 1
+R10
+R11
+n@f@p32@multiplier_@d@w01_inc_0
+vFP32Multiplier_DW02_mult_0
+R59
+!i10b 1
+!s100 o>5P]1daXG:VSmDN]z[V>0
+IXmWOFW6HR1EH>_CKSdHO:1
+R1
+R2
+R61
+R62
+R63
+L0 201
+R6
+r1
+!s85 0
+31
+R60
+R64
+R65
+!i113 1
+R10
+R11
+n@f@p32@multiplier_@d@w02_mult_0
+vFP32Multiplier_Synth
+R59
+!i10b 1
+!s100 I5P77>>LKSD5dBIa[cfUj0
+IG[g=K>mQf5f=Cm3MYcO_`0
+R1
+R2
+R61
+R62
+R63
+L0 2208
+R6
+r1
+!s85 0
+31
+R60
+R64
+R65
+!i113 1
+R10
+R11
+n@f@p32@multiplier_@synth
+vFP_Multiplier
+!s110 1703322170
+!i10b 1
+!s100 1aeV__ZlozQBO7iN:>a@]1
+I1z4^ckT<lHi3Uh>3X4R1C3
+R1
+R2
+w1703322163
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Multiplier.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Multiplier.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1703322170.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/FP32Multiplier.v|
+!i113 1
+R10
+R11
+n@f@p_@multiplier
 vHADDX1
 R0
 !i10b 1
@@ -3619,22 +3817,23 @@ R10
 R11
 n@h@a@d@d@x2
 vhalfadder2
+R12
 !i10b 1
+!s100 G?XD=;0?Z<m8B`7_?dLXS3
+I`a`c2IkRo44OKheN3__k83
 R1
+R2
+R13
+R14
+R15
+L0 77
+R6
 r1
 !s85 0
 31
-!s100 c7^K7Fc5eN:9VImjHmHaL0
-IL_;3ChkR:cU>VkZ1@P:^63
-R27
-R28
-R29
-R30
-L0 54
-R6
-R31
-R32
-R33
+R16
+R17
+R18
 !i113 1
 R10
 R11
@@ -3646,15 +3845,15 @@ r1
 31
 !s100 =bjzCbUd9IHld14cW>]=l2
 I?7b;JIUfK=MYU1E^=6=JC2
-R27
-R46
-Z58 8C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
-Z59 FC:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
+R47
+R48
+Z66 8C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
+Z67 FC:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v
 L0 1
 R6
-R31
-Z60 !s107 C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
-Z61 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
+Z68 !s108 1702505183.000000
+Z69 !s107 C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
+Z70 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/TreeMultiplier.v|
 !i113 1
 R10
 R11
@@ -5970,27 +6169,25 @@ R10
 R11
 np405s_mmu_@r@f_64words@x34bits_@w@r@a@p
 vPartialMultiplication
-Z62 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R12
 !i10b 1
+!s100 hBXi_K]NFHR[f1jl;co9h2
+IUCO<n6fe27Wn9ICG6j8Mk1
 R1
+R2
+R13
+R14
+R15
+L0 13
+R6
 r1
 !s85 0
 31
-!s100 hd=W>7XUKlMzjG@R>JEzc3
-IW=@jggcH7e76VhFzBdH?:0
-Z63 !s105 Synth_Test_sv_unit
-S1
-R27
-Z64 w1702340895
-Z65 8C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.sv
-Z66 FC:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.sv
-R57
-R6
-R31
-Z67 !s107 C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.sv|
-Z68 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.sv|
+R16
+R17
+R18
 !i113 1
-Z69 o-work work -sv
+R10
 R11
 n@partial@multiplication
 vRDFFNX1
@@ -6082,22 +6279,23 @@ R10
 R11
 n@r@d@f@f@x2
 vRecursiveCarryAdder64
+R12
 !i10b 1
+!s100 iZ3PzhnW=aUeCMzG04F]e3
+I@@^c=;@>9Y<8f9z>bHNAR3
 R1
+R2
+R13
+R14
+R15
+L0 27
+R6
 r1
 !s85 0
 31
-!s100 ^eXk_T9DYnFO7eAdF4AN=1
-IKl[i;XF4>9cDh=`OVSjlB0
-R27
-R28
-R29
-R30
-L0 2
-R6
-R31
-R32
-R33
+R16
+R17
+R18
 !i113 1
 R10
 R11
@@ -6114,9 +6312,9 @@ R2
 w1702399317
 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v
-Z70 L0 15
+Z71 L0 15
 R6
-R37
+R38
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder.v|
 !i113 1
@@ -6132,14 +6330,14 @@ r1
 !s100 S9[EGO7lY5Gc2Njo^:R:z1
 I:`LDb6@R5:nlB=?J]gdL=2
 R2
-R34
 R35
 R36
-R70
-R6
 R37
+R71
+R6
 R38
 R39
+R40
 !i113 1
 R10
 R11
@@ -6158,7 +6356,7 @@ w1702585087
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/CarrySelectAdder-Synth.v
 L0 8
 R6
-R43
+R44
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/CarrySelectAdder-Synth.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/CarrySelectAdder-Synth.v|
 !i113 1
@@ -6174,14 +6372,14 @@ r1
 !s100 ;dd<nMd9NUlmj4FJ>2F5z2
 I4JdFEgV7mD7mN=f58?BJU1
 R2
-R40
 R41
 R42
+R43
 L0 26
 R6
-R43
 R44
 R45
+R46
 !i113 1
 R10
 R11
@@ -6200,7 +6398,7 @@ w1702492310
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder_tb.v
 L0 3
 R6
-R43
+R44
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/RippleCarryAdder_tb.v|
 !i113 1
@@ -9056,1431 +9254,1431 @@ R10
 R11
 n@sequential@multiplier
 vSequentialMultiplier_DW01_add_0
-Z71 !s110 1703315384
+Z72 !s110 1703315384
 !i10b 1
 !s100 :Ujdk`U_ii3NPJBPNgDSY0
 IA0a40AXbCSN4Z7ZD<n>D10
 R1
 R2
-Z72 w1703315378
-Z73 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v
-Z74 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v
+Z73 w1703315378
+Z74 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v
+Z75 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v
 L0 218
 R6
 r1
 !s85 0
 31
-Z75 !s108 1703315384.000000
-Z76 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v|
-Z77 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v|
+Z76 !s108 1703315384.000000
+Z77 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v|
+Z78 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/SequentialMultiplier-Synth.v|
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_0
 vSequentialMultiplier_DW01_add_1
-R71
+R72
 !i10b 1
 !s100 0?G@m]8_SDbZM3E5>blX00
 ILO_4]N9Soc`>@1eegRP9K1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 369
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_1
 vSequentialMultiplier_DW01_add_10
-R71
+R72
 !i10b 1
 !s100 o:E?ZUR_66gc;ZIXonYAf3
 IzA`hk>?Ongi8B_I1YaY@B2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1818
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_10
 vSequentialMultiplier_DW01_add_11
-R71
+R72
 !i10b 1
 !s100 WUF`UN[C<ffWEkB^9T3_]0
 I5n0an5OEc]3OLlPZL^A5T3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1989
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_11
 vSequentialMultiplier_DW01_add_12
-R71
+R72
 !i10b 1
 !s100 _5Rc@CAmVWl5@0]2e^69h2
 I[iR>Do^H@=e>G8LG7ke=P3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2162
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_12
 vSequentialMultiplier_DW01_add_13
-R71
+R72
 !i10b 1
 !s100 LDMP:L87j_NHjZl<aEF?W3
 IADUZL5dc]O;UgMZDDZg`53
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2337
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_13
 vSequentialMultiplier_DW01_add_14
-R71
+R72
 !i10b 1
 !s100 7EbJ]3AMO_11`cJlOZ<k?3
 I]WQbDUVlgjGg`j<>c:z4R2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2514
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_14
 vSequentialMultiplier_DW01_add_15
-R71
+R72
 !i10b 1
 !s100 0ni7<mFg0;iLJ]AlE@ilZ3
 Ibfad8[W9zVmMoI;ez6K0C3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2693
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_15
 vSequentialMultiplier_DW01_add_16
-R71
+R72
 !i10b 1
 !s100 Q;ZZjhUBghA_HIT6KnP_B3
 IjAL0P=`:GM8od@[GU:;EQ3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2874
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_16
 vSequentialMultiplier_DW01_add_17
-R71
+R72
 !i10b 1
 !s100 DlWRaFLF6aMW`Z3^R>B@D1
 IhPD>CGO<NFPVN^XO>]OYn1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3057
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_17
 vSequentialMultiplier_DW01_add_18
-R71
+R72
 !i10b 1
 !s100 AUE:ZnD9XPhdH1<0Z70MU3
 IaHPf_CkQk5H8CkVM@W?5X1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3242
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_18
 vSequentialMultiplier_DW01_add_19
-R71
+R72
 !i10b 1
 !s100 6U<YJc_]C_QkKID<UJ6GO0
 IJ]:eE8SHfFEJk=?Cl0J4b1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3429
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_19
 vSequentialMultiplier_DW01_add_2
-R71
+R72
 !i10b 1
 !s100 aGS4j^Kj=AAAi<`SFQhN01
 IZKjlzUd5gReEGzFKY5W[B1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 522
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_2
 vSequentialMultiplier_DW01_add_20
-R71
+R72
 !i10b 1
 !s100 RT4Y7FA`7CgfO=;l`Bz8Q1
 IC0mJVYzLFmLeAJf1OQ=9A3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3618
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_20
 vSequentialMultiplier_DW01_add_21
-R71
+R72
 !i10b 1
 !s100 6d0fl;<?m0lW[4bfbjjzI0
 ILV=49eL^E2KcehIm7^nYT2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3809
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_21
 vSequentialMultiplier_DW01_add_22
-R71
+R72
 !i10b 1
 !s100 HKb2M9]IzY@Mn]>;1J`P80
 I6jl@P7dVjNMM^4:UYQ7^F2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4002
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_22
 vSequentialMultiplier_DW01_add_23
-R71
+R72
 !i10b 1
 !s100 2NQjHnRf2U0IP=Dok[EO@1
 IF?Gb_USeUQZ9hOQj2k;Zk3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4197
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_23
 vSequentialMultiplier_DW01_add_24
-R71
+R72
 !i10b 1
 !s100 CbzgD<[Tlo3n7`3=UhfG63
 I?`^jFb7lE58hX_GTfcmSo0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4394
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_24
 vSequentialMultiplier_DW01_add_25
-R71
+R72
 !i10b 1
 !s100 >SOBS9Z38zgh8JS^53l?Q0
 Id28c=;NHaE>5=782ZDE`g3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4593
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_25
 vSequentialMultiplier_DW01_add_26
-R71
+R72
 !i10b 1
 !s100 i3AU]4f:J8Z>jEW?EQjHZ0
 Io?a:UzL8NWcV^;]h5?Nl@3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4794
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_26
 vSequentialMultiplier_DW01_add_27
-R71
+R72
 !i10b 1
 !s100 ffC7><d;MQ9Na@=zSCnZZ3
 ISZzSF:TSBO`hF7_mE`:?=3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4997
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_27
 vSequentialMultiplier_DW01_add_28
-R71
+R72
 !i10b 1
 !s100 EVELU0_GL81]J7iDYUkS=0
 IIEEC;6Eik8SARE`2`6lJ32
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5204
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_28
 vSequentialMultiplier_DW01_add_29
-R71
+R72
 !i10b 1
 !s100 ;Mn^BL6oINVSz>R9PID3B2
 I;H<cRT^AKTjOmZeR:MS?W2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5412
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_29
 vSequentialMultiplier_DW01_add_3
-R71
+R72
 !i10b 1
 !s100 GYR^3Qh5KoV[RSKemY8Xz3
 I6j]7niebXQ@:5l9A:3g<;1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 677
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_3
 vSequentialMultiplier_DW01_add_30
-R71
+R72
 !i10b 1
 !s100 i>Cl<OUX=EFn8[m3<HGTo0
 I8VR<4K^eTCF[Xb?M6`CTo3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5621
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_30
 vSequentialMultiplier_DW01_add_4
-R71
+R72
 !i10b 1
 !s100 dAMY:CPZC8:o3lWZN:g2Z3
 I>>FaDW861RB@9jfaOKfVX3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 834
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_4
 vSequentialMultiplier_DW01_add_5
-R71
+R72
 !i10b 1
 !s100 FS8MLgQSKi;:B@EY=bD?;3
 IdAoVD;71@hE=Kb2lH4GCe1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 993
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_5
 vSequentialMultiplier_DW01_add_6
-R71
+R72
 !i10b 1
 !s100 63AAZ]BRS2IbKm^DMG^`L1
 Iba^F@f2h5Kca5G@Bl6E4G2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1154
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_6
 vSequentialMultiplier_DW01_add_7
-R71
+R72
 !i10b 1
 !s100 G6nGN8Y:636O=U<H4DH>Z1
 IJ6;B?]>FWndHZYOAU_a9E1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1317
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_7
 vSequentialMultiplier_DW01_add_8
-R71
+R72
 !i10b 1
 !s100 a]?iNZiN96=d;?jL<UPOF3
 I;[Da0CU07fgi:04cFMC>13
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1482
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_8
 vSequentialMultiplier_DW01_add_9
-R71
+R72
 !i10b 1
 !s100 2m<OnBXc24D_0^i_lK`Ha0
 IgQb]Yala@HR1RbcZ`7=B?3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1649
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_add_9
 vSequentialMultiplier_DW01_sub_0
-R71
+R72
 !i10b 1
 !s100 GoDC@7C1;86QF<LJ>PHbz3
 IHE7=eomPF9<90LdS3Jf3]2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 8
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_sub_0
 vSequentialMultiplier_DW01_sub_1
-R71
+R72
 !i10b 1
 !s100 He<fAIhoGaFfV=?ze22Jd2
 IbN6[e6fS3?>_1nMlN_7BQ0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5807
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w01_sub_1
 vSequentialMultiplier_DW02_mult_0
-R71
+R72
 !i10b 1
 !s100 3?bkcKSmB=RC;>L^RKoiK3
 I4Gz6VZ3n1X5eRzYU;UUEZ0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 325
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_0
 vSequentialMultiplier_DW02_mult_1
-R71
+R72
 !i10b 1
 !s100 037^7TMEUkKY1mz1M__bY3
 I@N1UCJM4kS9Df8XXN@L4:2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 477
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_1
 vSequentialMultiplier_DW02_mult_10
-R71
+R72
 !i10b 1
 !s100 UT]^h<RP<J8c4?KCL0[H92
 In7E41od`]jdm_Z0@zTKB`0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1935
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_10
 vSequentialMultiplier_DW02_mult_11
-R71
+R72
 !i10b 1
 !s100 GbZ=BR1MW42zDck`9]ojj1
 IHnVdG6jTb9PI9Dc^P8g]j3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2107
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_11
 vSequentialMultiplier_DW02_mult_12
-R71
+R72
 !i10b 1
 !s100 mEZ]lgn]glB5ZbnXW2XM01
 InJe8<KhFJmB:LOdLnDiC>2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2281
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_12
 vSequentialMultiplier_DW02_mult_13
-R71
+R72
 !i10b 1
 !s100 ;>hU7O4RZz;W25YCd<5nk2
 I45Qan8U7@D43bNWEK_5nA2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2457
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_13
 vSequentialMultiplier_DW02_mult_14
-R71
+R72
 !i10b 1
 !s100 DIPMYN?<YkFEWLYefOD_G0
 IE>;R0??1@U9K8i;OIzR9O2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2635
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_14
 vSequentialMultiplier_DW02_mult_15
-R71
+R72
 !i10b 1
 !s100 ;Hj1@453L97`RLZ;hn3c^0
 IUAS;HI83Xg<?3;TTlKhFd3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2815
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_15
 vSequentialMultiplier_DW02_mult_16
-R71
+R72
 !i10b 1
 !s100 ^njD;aUSBS2Jo3`H@^JMz3
 ITdDDQa_V1g;c7;?KEmPFS0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 2997
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_16
 vSequentialMultiplier_DW02_mult_17
-R71
+R72
 !i10b 1
 !s100 LL;ibAH9:FlZUdooziEXS0
 INCWh_<XUn>KRZ;1^zn8142
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3181
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_17
 vSequentialMultiplier_DW02_mult_18
-R71
+R72
 !i10b 1
 !s100 3KZOhnlk3bdnbn8RbFPW32
 I3oS@1P]lUdQYW6AkSf0db2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3367
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_18
 vSequentialMultiplier_DW02_mult_19
-R71
+R72
 !i10b 1
 !s100 zIaoRC2mXPiejl7gI>l;32
 I`mdW1n10gM`62OU^bgEg:3
 R1
 R2
-R72
 R73
 R74
-R26
+R75
+R33
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_19
 vSequentialMultiplier_DW02_mult_2
-R71
+R72
 !i10b 1
 !s100 k9G_Q1WBEELCkKYZYz_jz0
 IThZD85mmW[YEZeYmL]38z0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 631
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_2
 vSequentialMultiplier_DW02_mult_20
-R71
+R72
 !i10b 1
 !s100 KPl7lDI:aEo1kkR>NkUo[2
 I7XMBbmaRjJ>^X;0M^8[_40
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3745
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_20
 vSequentialMultiplier_DW02_mult_21
-R71
+R72
 !i10b 1
 !s100 ^Go>hAOJ[Rj`=SOiOg2oD0
 Ibo6PL`4cK8ZICHbHDZK9D1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 3937
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_21
 vSequentialMultiplier_DW02_mult_22
-R71
+R72
 !i10b 1
 !s100 QU151@cJ8OAPO_D?e_lbA3
 IfW0QZAOo0P<SO:=aUgzUD0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4131
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_22
 vSequentialMultiplier_DW02_mult_23
-R71
+R72
 !i10b 1
 !s100 gk5zF6Ugm7jF9R=e[H`NL0
 IS4Y`g_o9K:C17]`XbZ;8h3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4327
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_23
 vSequentialMultiplier_DW02_mult_24
-R71
+R72
 !i10b 1
 !s100 JLfgflMIZbzb6i=bNz6n]2
 IHgf]RnLS2`Q>YiXdLTlXg1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4525
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_24
 vSequentialMultiplier_DW02_mult_25
-R71
+R72
 !i10b 1
 !s100 0l`mbLTWK[L]eLdkMU`6g0
 IV@H7oOma<DILaJ5>A_9L<2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4725
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_25
 vSequentialMultiplier_DW02_mult_26
-R71
+R72
 !i10b 1
 !s100 cD;ldI_QekSQ]FQlfjG?K3
 IoQ224gfAa>?ZeGK5QVGk51
 R1
 R2
-R72
 R73
 R74
+R75
 L0 4927
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_26
 vSequentialMultiplier_DW02_mult_27
-R71
+R72
 !i10b 1
 !s100 Pe?aO<c_1`9nMT[Az35QK2
 I5cBQ9FWez9UlO5izBC:d31
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5131
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_27
 vSequentialMultiplier_DW02_mult_28
-R71
+R72
 !i10b 1
 !s100 [42KjeUVnVVU=Tc;W=Uk]2
 I<zA=1BSm<XQ5NkE=cQLoA0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5339
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_28
 vSequentialMultiplier_DW02_mult_29
-R71
+R72
 !i10b 1
 !s100 oNQ2G]DNVJzkEF_nS9=T12
 IDl_PO9?Z?JAU54OeCUkUo2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5548
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_29
 vSequentialMultiplier_DW02_mult_3
-R71
+R72
 !i10b 1
 !s100 8Q>2`9DaSBDiEM>6Y>8553
 IO2CChWFMWW0OLb3fYD]MP3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 787
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_3
 vSequentialMultiplier_DW02_mult_30
-R71
+R72
 !i10b 1
 !s100 BK=V6KJ^^8`4Tg;@dlHz@1
 I]V@IE93=h`3<4jlDR`YC;2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5733
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_30
 vSequentialMultiplier_DW02_mult_4
-R71
+R72
 !i10b 1
 !s100 >M[;d0VIZAX_GjmD1Q7Kz1
 IZgQnoPSP?;8]XMHSQ347i3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 945
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_4
 vSequentialMultiplier_DW02_mult_5
-R71
+R72
 !i10b 1
 !s100 ANdkBXa=X^JS[Qz^=U[>P1
 IQbc=WP2XQcS9?SAWzc8Y00
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1105
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_5
 vSequentialMultiplier_DW02_mult_6
-R71
+R72
 !i10b 1
 !s100 iN?0BeM0AnkWY4;fGD56;3
 I^1Mj]QTaOAX`m0J8WQI5M2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1267
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_6
 vSequentialMultiplier_DW02_mult_7
-R71
+R72
 !i10b 1
 !s100 LH1^l<e>=MHEjSC8Oe[V71
 IV`DKR;5RYLmPbfPJ:e]^^0
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1431
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_7
 vSequentialMultiplier_DW02_mult_8
-R71
+R72
 !i10b 1
 !s100 Pzad<l`@DkMB>>ELU@8Ai0
 I;QlJH]Q;Y2RGcbSKf`EKc1
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1597
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_8
 vSequentialMultiplier_DW02_mult_9
-R71
+R72
 !i10b 1
 !s100 VG[2FL`@jFQNVQ347^fB50
 I>R:b@EDd[bT[P@M?gDea:2
 R1
 R2
-R72
 R73
 R74
+R75
 L0 1765
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
 n@sequential@multiplier_@d@w02_mult_9
 vSequentialMultiplier_Synth
-R71
+R72
 !i10b 1
 !s100 ?OXnOliWnRoNVQ=J8DTC90
 I<I=MGj:C3O]5LoW5eanYV3
 R1
 R2
-R72
 R73
 R74
+R75
 L0 5916
 R6
 r1
 !s85 0
 31
-R75
 R76
 R77
+R78
 !i113 1
 R10
 R11
@@ -10508,27 +10706,71 @@ R10
 R11
 n@sync@block
 vSyncBoothMultiplier
-R12
+R19
 !i10b 1
 !s100 9`7LkUiK8`<0lgAb?e[:42
 IHGBReFFmP9GOdX1[7aimY1
 R1
 R2
-R13
-R14
-R15
+R20
+R21
+R22
 L0 47
 R6
 r1
 !s85 0
 31
-R16
-R17
-R18
+R23
+R24
+R25
 !i113 1
 R10
 R11
 n@sync@booth@multiplier
+vSyncFP32Multiplier
+!s110 1703323495
+!i10b 1
+!s100 :=5abV;Pza=GFjJIIN7C31
+IFBSJ^n>]CdONn<3TJ[6V`0
+R1
+R2
+w1703323487
+Z79 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-FP32Multipler-Synth.v
+Z80 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-FP32Multipler-Synth.v
+L0 8
+R6
+r1
+!s85 0
+31
+!s108 1703323495.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-FP32Multipler-Synth.v|
+Z81 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-FP32Multipler-Synth.v|
+!i113 1
+R10
+R11
+n@sync@f@p32@multiplier
+vSyncFP32Multiplier_Synth
+!s110 1703323567
+!i10b 1
+!s100 Xg1CPk;ifA80]Ha?N]n[l3
+I4YA7EEo6]<e0UNMdOP2hT1
+R1
+R2
+w1703323562
+R79
+R80
+L0 8
+R6
+r1
+!s85 0
+31
+!s108 1703323567.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/Sync-FP32Multipler-Synth.v|
+R81
+!i113 1
+R10
+R11
+n@sync@f@p32@multiplier_@synth
 vSynchBoothMultiplier
 !i10b 1
 R1
@@ -10537,7 +10779,7 @@ r1
 31
 !s100 ^35OFULm:nn:2PShJ;RY`1
 Ia?zd`JE32JTjmR6[9Zj_z3
-R27
+R47
 w1702222114
 8C:\Users\abdo_\Desktop\VLSI_Project\SynchronizedBoothMultiplier.v
 FC:\Users\abdo_\Desktop\VLSI_Project\SynchronizedBoothMultiplier.v
@@ -10558,13 +10800,13 @@ r1
 31
 !s100 iO`01=egE_[kA<f0:0EnW2
 Ih7BF>?lEfPK=Q6Sl@jY:;2
-R27
+R47
 w1702305390
 8C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v
 FC:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v
 L0 2
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedBoothMultiplier.v|
 !i113 1
@@ -10579,13 +10821,13 @@ r1
 31
 !s100 <4@zBA@DbZ@?05VYW[=1h0
 IK5zT5kh1zg<SWbL1JXGbU3
-R27
-R28
+R47
+w1702338949
 8C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedWallaceTreeMultiplier32.v
 FC:/Users/abdo_/Desktop/VLSI_Project/SynchronizedWallaceTreeMultiplier32.v
 L0 2
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedWallaceTreeMultiplier32.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/SynchronizedWallaceTreeMultiplier32.v|
 !i113 1
@@ -10593,29 +10835,29 @@ R10
 R11
 n@synchronized@wallace@tree@multiplier32
 vSyncVerilogMultiplier
-Z78 !s110 1703315147
+Z82 !s110 1703315147
 !i10b 1
 !s100 YT0IP3>]m9Wg5mz[RHU>40
 IkjWY72c8ZDecWeTWO>^z=0
 R1
 R2
-Z79 w1703314410
-Z80 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v
-Z81 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v
+Z83 w1703314410
+Z84 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v
+Z85 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v
 L0 9
 R6
 r1
 !s85 0
 31
-Z82 !s108 1703315147.000000
-Z83 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v|
-Z84 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v|
+Z86 !s108 1703315147.000000
+Z87 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v|
+Z88 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/SyncVerilogMultiplier.v|
 !i113 1
 R10
 R11
 n@sync@verilog@multiplier
 vSyncVerilogMultiplier_Synth
-Z85 !s110 1703313103
+Z89 !s110 1703313103
 !i10b 1
 !s100 ;5RRE[7IAD71z^LWKz[XC0
 I83L8KiG3ohJPMDTf>ki`h3
@@ -10636,6 +10878,28 @@ r1
 R10
 R11
 n@sync@verilog@multiplier_@synth
+vSyncWallaceTreeMultiplier
+R12
+!i10b 1
+!s100 Zo=dGY>3lVgcVkQmbz`kL1
+ImYkRKO3:1HTMg2Sa8BAgO1
+R1
+R2
+R13
+R14
+R15
+L0 175
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+n@sync@wallace@tree@multiplier
 vSynth_Carry_Select
 !i10b 1
 R1
@@ -10644,13 +10908,13 @@ r1
 31
 !s100 m0Poz?NXLT736Xz2VzY`82
 I6R4;eR^iU57z6a5QjiYmn3
-R27
+R47
 w1702398888
 8C:/Users/abdo_/Desktop/VLSI_Project/synth_Carry_Select.v
 FC:/Users/abdo_/Desktop/VLSI_Project/synth_Carry_Select.v
 L0 9
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/synth_Carry_Select.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/synth_Carry_Select.v|
 !i113 1
@@ -10665,13 +10929,13 @@ r1
 31
 !s100 <JeQhFGVAO1EKXCdbG@=a0
 ISOJQZh=NkCOlK[C]j<CRA3
-R27
+R47
 w1702397883
 8C:/Users/abdo_/Desktop/VLSI_Project/SynthFA.v
 FC:/Users/abdo_/Desktop/VLSI_Project/SynthFA.v
 L0 9
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/SynthFA.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/SynthFA.v|
 !i113 1
@@ -10686,13 +10950,13 @@ r1
 31
 !s100 7P5f]HZ]6clmVK36j]OkD2
 I9HZ5MSdjeAYATD^=@NJ^_3
-R27
+R47
 w1702397807
 8C:/Users/abdo_/Desktop/VLSI_Project/synth_ripple.v
 FC:/Users/abdo_/Desktop/VLSI_Project/synth_ripple.v
 L0 9
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/synth_ripple.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/synth_ripple.v|
 !i113 1
@@ -10706,13 +10970,13 @@ r1
 31
 !s100 HP1Jhf`BVBnRL0bWUP>=a0
 IQ03YLAQP_gz3OEEdP<?ln2
-R27
+R47
 w1702398748
 8C:/Users/abdo_/Desktop/VLSI_Project/synth_ripple_carry_16bit.v
 FC:/Users/abdo_/Desktop/VLSI_Project/synth_ripple_carry_16bit.v
 L0 9
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/synth_ripple_carry_16bit.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/synth_ripple_carry_16bit.v|
 !i113 1
@@ -10727,13 +10991,13 @@ r1
 31
 !s100 C<5QLMG5R0SKSS8g8Mo970
 ITP]j?<hZb7bc9E>HVXWE;3
-R27
+R47
 w1702390781
 8C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v
 FC:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v
 L0 2
 R6
-R31
+R68
 !s107 C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/Synth_Test.v|
 !i113 1
@@ -10741,22 +11005,23 @@ R10
 R11
 n@synth_@test
 vThreeLevelAdder64
+R12
 !i10b 1
+!s100 TO:Vn]Z8;P2<JcB7oeYb>2
+IXKFR;ccP`nbJH>AAm:lW50
 R1
+R2
+R13
+R14
+R15
+L0 1
+R6
 r1
 !s85 0
 31
-!s100 DV@dRY?S@FFF6C:T:`ckh0
-ITU<bIKllF6>6EmG_IS`XM0
-R27
-w1702340334
-8C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_deps.v
-FC:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_deps.v
-L0 4
-R6
-Z86 !s108 1702505184.000000
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_deps.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_deps.v|
+R16
+R17
+R18
 !i113 1
 R10
 R11
@@ -10945,15 +11210,15 @@ r1
 31
 !s100 [I70<5Ga_eSJdRJ7W>c<a0
 I`@zU3?25DQVGE9iD9F`j12
-R27
-R46
-R58
-R59
+R47
+R48
+R66
+R67
 L0 12
 R6
-R31
-R60
-R61
+R68
+R69
+R70
 !i113 1
 R10
 R11
@@ -10972,7 +11237,7 @@ w1702392680
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v
 L0 1
 R6
-R37
+R38
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder.v|
 !i113 1
@@ -10988,14 +11253,14 @@ r1
 !s100 m`RnCiLhMID`BFdfCWeIC3
 IXLEJ^h1elJoej`kRn58^G2
 R2
-Z87 w1702497599
-Z88 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v
-Z89 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v
+Z90 w1702497599
+Z91 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v
+Z92 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v
 L0 8
 R6
-R37
-Z90 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v|
-Z91 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v|
+R38
+Z93 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v|
+Z94 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/Synths-Outputs/VerilogAdder-Synth.v|
 !i113 1
 R10
 R11
@@ -11009,14 +11274,14 @@ r1
 !s100 HMKz6_;KcGf:K=9AQh<d62
 I9zdSZ3o63k_Y0Vh[7VJ?l0
 R2
-R87
-R88
-R89
-L0 83
-R6
-R37
 R90
 R91
+R92
+R34
+R6
+R38
+R93
+R94
 !i113 1
 R10
 R11
@@ -11035,7 +11300,7 @@ w1702492419
 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder_tb.v
 L0 3
 R6
-R43
+R44
 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/adders/VerilogAdder_tb.v|
 !i113 1
@@ -11043,134 +11308,133 @@ R10
 R11
 n@verilog@adder_tb
 vVerilogMultiplier
-R78
+R82
 !i10b 1
 !s100 PQjlUWQPEW>4Ygb<L65c?1
 IEWU^MCRRX?hTF<8n2j^i>1
 R1
 R2
-R79
-R80
-R81
+R83
+R84
+R85
 L0 1
 R6
 r1
 !s85 0
 31
-R82
-R83
-R84
+R86
+R87
+R88
 !i113 1
 R10
 R11
 n@verilog@multiplier
 vVerilogMultiplier_DW01_add_0
-R85
+R89
 !i10b 1
 !s100 =o;2A0g@N54XYiY6OZ`o52
 I>:_fbnbYBURFo09BElfXO2
 R1
 R2
-Z92 w1703311102
-Z93 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v
-Z94 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v
+Z95 w1703311102
+Z96 8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v
+Z97 FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v
 L0 8
 R6
 r1
 !s85 0
 31
-Z95 !s108 1703313102.000000
-Z96 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v|
-Z97 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v|
+Z98 !s108 1703313102.000000
+Z99 !s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v|
+Z100 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/multipliers/Synth-Output/VerilogMultiplier-Synth.v|
 !i113 1
 R10
 R11
 n@verilog@multiplier_@d@w01_add_0
 vVerilogMultiplier_DW02_mult_0
-R85
+R89
 !i10b 1
 !s100 :mk^lbXkjVgLL;L<V6m8I3
 IhlEX<bkP`enaBE>:MA<dH3
 R1
 R2
-R92
-R93
-R94
+R95
+R96
+R97
 L0 295
 R6
 r1
 !s85 0
 31
-R95
-R96
-R97
+R98
+R99
+R100
 !i113 1
 R10
 R11
 n@verilog@multiplier_@d@w02_mult_0
 vVerilogMultiplier_Synth
-R85
+R89
 !i10b 1
 !s100 [7jLT:;IYYUNgO0o2=IJR0
 ICg?4dXG^2bIb><Bi1PlCH1
 R1
 R2
-R92
-R93
-R94
+R95
+R96
+R97
 L0 3713
 R6
 r1
 !s85 0
 31
-R95
-R96
-R97
+R98
+R99
+R100
 !i113 1
 R10
 R11
 n@verilog@multiplier_@synth
 vWallaceTreeMultiplier32
-R62
+R12
 !i10b 1
+!s100 kCOaIW9KK6@idDackf<lN2
+I5[XXTR8l@>K:O<c?T?0aU3
 R1
+R2
+R13
+R14
+R15
+L0 97
+R6
 r1
 !s85 0
 31
-!s100 _<9TnW68Wb6nTg:8MG6ci3
-IHSG`f00X0:7z2E<ZAl^i10
-R63
-S1
-R27
-R64
-R65
-R66
-L0 48
-R6
-R31
-R67
-R68
+R16
+R17
+R18
 !i113 1
-R69
+R10
 R11
 n@wallace@tree@multiplier32
 vWallaceTreeMultiplier32_tb
+!s110 1703318687
 !i10b 1
+!s100 CXhhoMhaO?]9JoO:fQ;E]1
+I3W6<1VHAMj]_XLJJ^Odz`0
 R1
+R2
+w1702491723
+8C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v
+FC:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v
+L0 2
+R6
 r1
 !s85 0
 31
-!s100 CXhhoMhaO?]9JoO:fQ;E]1
-I[>l;SzRgc<M1UV^Q?_BmF0
-R27
-w1702340092
-8C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_tb.v
-FC:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_tb.v
-L0 2
-R6
-R86
-!s107 C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/abdo_/Desktop/VLSI_Project/WallaceTreeMultiplier32_tb.v|
+!s108 1703318687.000000
+!s107 C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/xAbdoMo/Desktop/Uni/Projects/VLSI/VLSI_Project/WallaceTreeMultiplier32_tb.v|
 !i113 1
 R10
 R11
