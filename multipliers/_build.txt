@@ -1,0 +1,27 @@
+remove_design -designs
+read_file -format verilog  ./source/SyncBoothMultiplier.v
+analyze  -format verilog {./source/SyncBoothMultiplier.v }
+elaborate SyncBoothMultiplier
+current_design SyncBoothMultiplier
+link
+check_design
+create_clock -name clk -period 2 [get_ports clk]
+set_input_delay -max 0.2 -clock [get_clocks clk] [remove_from_collection [all_inputs ] [get_ports clk]]
+set_output_delay -max 0.5 -clock [get_clocks clk] [all_outputs]
+set_load 10 [get_ports a]
+set_load 10 [get_ports b]
+set_load 10 [get_ports rst]
+set_output_delay 0.5 -max [get_ports c]
+compile -exact_map > ./results/compile.log
+report_area > ./results/SyncBoothMultiplier_area.rpt
+report_cell > ./results/SyncBoothMultiplier_cells.rpt
+report_qor  > ./results/SyncBoothMultiplier_qor.rpt
+report_resources > ./results/SyncBoothMultiplier_resources.rpt
+report_power -analysis_effort high > ./results/SyncBoothMultiplier_power_report_log.txt
+report_power -analysis_effort high -hierarchy -levels 2 > ./results/VerilogMultilpier_log_file.txt
+report_timing -max_paths 10 > ./results/SyncBoothMultiplier_timing.rpt
+write -format verilog -output ./results/Synth_SyncBoothMultiplier.v
+set sdf_file_path "./results/SyncBoothMultiplier.sdf"
+report_timing -delay_type max -max_paths 10 -from [all_inputs] -to [all_outputs] > $sdf_file_path
+set sdf_file_path "./results/SyncBoothMultiplier.sdf"
+report_timing -delay_type min -max_paths 10 -from [all_inputs] -to [all_outputs] > $sdf_file_path
